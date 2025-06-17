@@ -416,7 +416,7 @@
 		<Size a="16834.773438" x="140.0" y="57.499939" z="2.100159"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="cd7b723e85d335a7e774ac9b47a2fcb5"/>
+		<Hash value="e16f9e8514df2f052c918c015e01920c"/>
 		<Material id="1" name="MONOCAPA_BLANCO"/>
 		<Material id="2" name="Material__37"/>
 		<Material id="3" name="Material__79"/>
@@ -543,7 +543,7 @@
 	</StaticMesh>
 	<ActorMesh name="5" label="AGUA_PISCINA" layer="EXTERIOR">
 		<mesh name="5"/>
-		<Transform tx="3245.0" ty="1935.000003" tz="29.024121" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="C03B7F769EA0E6BF00000000000000000000000000000000CD3B7F569EA0E63F"/>
+		<Transform tx="55.814941" ty="1141.716068" tz="29.024121" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="C03B7F769EA0E6BF00000000000000000000000000000000CD3B7F569EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 5" />
@@ -553,7 +553,7 @@
 	</ActorMesh>
 	<ActorMesh name="34" label="VALLA_JARDIN_SUR" layer="EXTERIOR">
 		<mesh name="34"/>
-		<Transform tx="3143.506348" ty="2091.990811" tz="54.999823" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="C03B7F769EA0E6BF00000000000000000000000000000000CD3B7F569EA0E63F"/>
+		<Transform tx="-45.678711" ty="1298.706853" tz="54.999823" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="C03B7F769EA0E6BF00000000000000000000000000000000CD3B7F569EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 34" />
@@ -563,7 +563,7 @@
 	</ActorMesh>
 	<ActorMesh name="60" label="LAMAS_FACHADA_NORTE" layer="EXTERIOR">
 		<mesh name="60"/>
-		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="C03B7F769EA0E6BF00000000000000000000000000000080CD3B7F569EA0E63F"/>
+		<Transform tx="-3189.185059" ty="-793.283936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="C03B7F769EA0E6BF00000000000000000000000000000080CD3B7F569EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 60" />
@@ -573,7 +573,7 @@
 	</ActorMesh>
 	<ActorMesh name="81" label="PAREDES_TRASTERO" layer="PAREDES">
 		<mesh name="81"/>
-		<Transform tx="3162.558105" ty="497.339142" tz="-239.999969" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-26.627132" ty="-295.944824" tz="-239.999969" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 81" />
@@ -583,7 +583,7 @@
 	</ActorMesh>
 	<ActorMesh name="82" label="TECHO_TRASTERO" layer="TECHO">
 		<mesh name="82"/>
-		<Transform tx="3162.558105" ty="497.339142" tz="-239.999969" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-26.627132" ty="-295.944824" tz="-239.999969" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 82" />
@@ -593,7 +593,7 @@
 	</ActorMesh>
 	<ActorMesh name="84" label="PAREDES_BANO_SOTANO" layer="PAREDES">
 		<mesh name="84"/>
-		<Transform tx="3393.0" ty="674.666504" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="203.814911" ty="-118.617462" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 84" />
@@ -603,7 +603,7 @@
 	</ActorMesh>
 	<ActorMesh name="85" label="TECHO_BANO_SOTANO" layer="TECHO">
 		<mesh name="85"/>
-		<Transform tx="3393.0" ty="674.666504" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="203.814911" ty="-118.617462" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 85" />
@@ -613,7 +613,7 @@
 	</ActorMesh>
 	<ActorMesh name="87" label="PAREDES_SALA_MAQUINAS" layer="PAREDES">
 		<mesh name="87"/>
-		<Transform tx="3131.000244" ty="732.999939" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-58.184792" ty="-60.284019" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 87" />
@@ -623,7 +623,7 @@
 	</ActorMesh>
 	<ActorMesh name="88" label="TECHO_SALA_MAQUINAS" layer="TECHO">
 		<mesh name="88"/>
-		<Transform tx="3131.000244" ty="732.999939" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-58.184792" ty="-60.284019" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 88" />
@@ -633,7 +633,7 @@
 	</ActorMesh>
 	<ActorMesh name="90" label="PAREDES_DISTRIBUIDOR_SOTANO" layer="PAREDES">
 		<mesh name="90"/>
-		<Transform tx="2939.666748" ty="707.888794" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-249.518372" ty="-85.395172" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 90" />
@@ -643,7 +643,7 @@
 	</ActorMesh>
 	<ActorMesh name="91" label="TECHO_DISTRIBUIDOR" layer="TECHO">
 		<mesh name="91"/>
-		<Transform tx="2939.666748" ty="707.888794" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-249.518372" ty="-85.395172" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 91" />
@@ -653,7 +653,7 @@
 	</ActorMesh>
 	<ActorMesh name="94" label="PAREDES_GARAJE" layer="PAREDES">
 		<mesh name="94"/>
-		<Transform tx="3097.16748" ty="1036.701782" tz="-307.391602" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-92.017723" ty="243.417816" tz="-307.391602" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 94" />
@@ -663,7 +663,7 @@
 	</ActorMesh>
 	<ActorMesh name="95" label="TECHO_GARAJE" layer="TECHO">
 		<mesh name="95"/>
-		<Transform tx="3097.16748" ty="1036.701782" tz="-307.391602" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-92.017723" ty="243.417816" tz="-307.391602" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 95" />
@@ -673,7 +673,7 @@
 	</ActorMesh>
 	<ActorMesh name="97" label="PAREDES_V_INDEPENDIENTE" layer="PAREDES">
 		<mesh name="97"/>
-		<Transform tx="2804.596924" ty="1279.981812" tz="-274.285797" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-384.588226" ty="486.697876" tz="-274.285797" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 97" />
@@ -683,7 +683,7 @@
 	</ActorMesh>
 	<ActorMesh name="98" label="TECHO_V_INDEPENDIENTE" layer="TECHO">
 		<mesh name="98"/>
-		<Transform tx="2804.596924" ty="1279.981812" tz="-274.285797" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-384.588226" ty="486.697876" tz="-274.285797" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 98" />
@@ -693,7 +693,7 @@
 	</ActorMesh>
 	<ActorMesh name="100" label="PAREDES_ESCALERA_GARAJE" layer="PAREDES">
 		<mesh name="100"/>
-		<Transform tx="2795.0" ty="991.968323" tz="-319.999969" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-394.185028" ty="198.684387" tz="-319.999969" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 100" />
@@ -703,7 +703,7 @@
 	</ActorMesh>
 	<ActorMesh name="105" label="ESCALERA_SOTANO" layer="SUELO">
 		<mesh name="105"/>
-		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<Transform tx="-3189.185059" ty="-793.283936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 105" />
@@ -713,7 +713,7 @@
 	</ActorMesh>
 	<ActorMesh name="106" label="SUELO_SOTANO" layer="SUELO">
 		<mesh name="106"/>
-		<Transform tx="3097.16748" ty="1036.701782" tz="-307.391602" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-92.017723" ty="243.417816" tz="-307.391602" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 106" />
@@ -723,7 +723,7 @@
 	</ActorMesh>
 	<ActorMesh name="699" label="PAREDES_PB" layer="PAREDES">
 		<mesh name="699"/>
-		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-46.390316" ty="-39.564587" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 699" />
@@ -733,7 +733,7 @@
 	</ActorMesh>
 	<ActorMesh name="700" label="TECHO_SALON_COMEDOR" layer="TECHO">
 		<mesh name="700"/>
-		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-46.390316" ty="-39.564587" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 700" />
@@ -743,7 +743,7 @@
 	</ActorMesh>
 	<ActorMesh name="705" label="PAREDES_ASEO_PB" layer="PAREDES">
 		<mesh name="705"/>
-		<Transform tx="2816.0" ty="413.998413" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-373.18512" ty="-379.285553" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 705" />
@@ -753,7 +753,7 @@
 	</ActorMesh>
 	<ActorMesh name="706" label="TECHO_ASEO_PB" layer="TECHO">
 		<mesh name="706"/>
-		<Transform tx="2816.0" ty="413.998413" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-373.18512" ty="-379.285553" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 706" />
@@ -763,7 +763,7 @@
 	</ActorMesh>
 	<ActorMesh name="708" label="ESCALERA_PB" layer="SUELO">
 		<mesh name="708"/>
-		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<Transform tx="-3189.185059" ty="-793.283936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 708" />
@@ -773,7 +773,7 @@
 	</ActorMesh>
 	<ActorMesh name="710" label="BARROTES_PB" layer="PAREDES">
 		<mesh name="710"/>
-		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<Transform tx="-3189.185059" ty="-793.283936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 710" />
@@ -783,7 +783,7 @@
 	</ActorMesh>
 	<ActorMesh name="948" label="PAREDES_HABITACION_01" layer="PAREDES">
 		<mesh name="948"/>
-		<Transform tx="2890.855713" ty="436.683929" tz="283.331848" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-298.329315" ty="-356.600037" tz="283.331848" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 948" />
@@ -793,7 +793,7 @@
 	</ActorMesh>
 	<ActorMesh name="949" label="TECHO_HABITACION_01" layer="TECHO">
 		<mesh name="949"/>
-		<Transform tx="2890.855713" ty="436.683929" tz="243.331879" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-298.329315" ty="-356.600037" tz="243.331879" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 949" />
@@ -803,7 +803,7 @@
 	</ActorMesh>
 	<ActorMesh name="951" label="SUELO_PB" layer="SUELO">
 		<mesh name="951"/>
-		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-46.390316" ty="-39.564587" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 951" />
@@ -813,7 +813,7 @@
 	</ActorMesh>
 	<ActorMesh name="952" label="PAREDES_HABITACION_02" layer="PAREDES">
 		<mesh name="952"/>
-		<Transform tx="3085.461914" ty="397.692139" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-103.723122" ty="-395.591858" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 952" />
@@ -823,7 +823,7 @@
 	</ActorMesh>
 	<ActorMesh name="953" label="TECHO_HABITACION_02" layer="TECHO">
 		<mesh name="953"/>
-		<Transform tx="3085.461914" ty="397.692139" tz="299.99826" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-103.723122" ty="-395.591858" tz="299.99826" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 953" />
@@ -833,7 +833,7 @@
 	</ActorMesh>
 	<ActorMesh name="956" label="PAREDES_HABITACION_03" layer="PAREDES">
 		<mesh name="956"/>
-		<Transform tx="3447.128662" ty="409.856934" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="257.943573" ty="-383.427032" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 956" />
@@ -843,7 +843,7 @@
 	</ActorMesh>
 	<ActorMesh name="957" label="TECHO_HABITACION_03" layer="TECHO">
 		<mesh name="957"/>
-		<Transform tx="3447.128662" ty="409.856934" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="257.943573" ty="-383.427032" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 957" />
@@ -853,7 +853,7 @@
 	</ActorMesh>
 	<ActorMesh name="959" label="PAREDES_BANO" layer="PAREDES">
 		<mesh name="959"/>
-		<Transform tx="3447.500977" ty="747.749573" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="258.315887" ty="-45.534397" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 959" />
@@ -863,7 +863,7 @@
 	</ActorMesh>
 	<ActorMesh name="960" label="TECHO_BANO" layer="TECHO">
 		<mesh name="960"/>
-		<Transform tx="3447.500977" ty="747.749573" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="258.315887" ty="-45.534397" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 960" />
@@ -873,7 +873,7 @@
 	</ActorMesh>
 	<ActorMesh name="962" label="PAREDES_BANO_PPAL" layer="PAREDES">
 		<mesh name="962"/>
-		<Transform tx="3457.500732" ty="1028.251709" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="268.315735" ty="234.967682" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 962" />
@@ -883,7 +883,7 @@
 	</ActorMesh>
 	<ActorMesh name="963" label="TECHO_BANO_PPAL" layer="TECHO">
 		<mesh name="963"/>
-		<Transform tx="3457.500732" ty="1028.251709" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="268.315735" ty="234.967682" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 963" />
@@ -893,7 +893,7 @@
 	</ActorMesh>
 	<ActorMesh name="965" label="PAREDES_HABITACION_PPAL" layer="PAREDES">
 		<mesh name="965"/>
-		<Transform tx="3401.375488" ty="1231.625732" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="212.19046" ty="438.341797" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 965" />
@@ -903,7 +903,7 @@
 	</ActorMesh>
 	<ActorMesh name="966" label="TECHO_HABITA_PPAL" layer="TECHO">
 		<mesh name="966"/>
-		<Transform tx="3401.375488" ty="1231.625732" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="212.19046" ty="438.341797" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 966" />
@@ -913,7 +913,7 @@
 	</ActorMesh>
 	<ActorMesh name="968" label="PAREDES_SALA_POLIVALENTE" layer="PAREDES">
 		<mesh name="968"/>
-		<Transform tx="3048.867676" ty="874.406616" tz="339.998108" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-140.317505" ty="81.122658" tz="339.998108" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 968" />
@@ -923,7 +923,7 @@
 	</ActorMesh>
 	<ActorMesh name="969" label="TECHO_SALA_POLI" layer="TECHO">
 		<mesh name="969"/>
-		<Transform tx="3048.867676" ty="874.406616" tz="339.998108" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-140.317505" ty="81.122658" tz="339.998108" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 969" />
@@ -933,7 +933,7 @@
 	</ActorMesh>
 	<ActorMesh name="976" label="SUELO_P1" layer="SUELO">
 		<mesh name="976"/>
-		<Transform tx="3048.867676" ty="874.406616" tz="339.998108" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-140.317505" ty="81.122658" tz="339.998108" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 976" />
@@ -943,7 +943,7 @@
 	</ActorMesh>
 	<ActorMesh name="979" label="LUCERNARIO_CUBIERTA" layer="CARPINTERIAS">
 		<mesh name="979"/>
-		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<Transform tx="-3189.185059" ty="-793.283936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 979" />
@@ -953,7 +953,7 @@
 	</ActorMesh>
 	<ActorMesh name="981" label="FACHADA_NORTE" layer="EXTERIOR">
 		<mesh name="981"/>
-		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-46.390316" ty="-39.564587" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 981" />
@@ -963,7 +963,7 @@
 	</ActorMesh>
 	<ActorMesh name="990" label="FACHADA_SUR" layer="EXTERIOR">
 		<mesh name="990"/>
-		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-46.390316" ty="-39.564587" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 990" />
@@ -973,7 +973,7 @@
 	</ActorMesh>
 	<ActorMesh name="991" label="LAMAS_FACHADA_SUR" layer="EXTERIOR">
 		<mesh name="991"/>
-		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<Transform tx="-3189.185059" ty="-793.283936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 991" />
@@ -983,7 +983,7 @@
 	</ActorMesh>
 	<ActorMesh name="992" label="SUELO_BALCON_SUR" layer="EXTERIOR">
 		<mesh name="992"/>
-		<Transform tx="3022.500244" ty="1416.25" tz="339.999207" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-166.684891" ty="622.966003" tz="339.999207" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 992" />
@@ -993,7 +993,7 @@
 	</ActorMesh>
 	<ActorMesh name="995" label="SUELO_JARDIN_SUR" layer="EXTERIOR">
 		<mesh name="995"/>
-		<Transform tx="3119.999756" ty="1450.0" tz="-0.000075" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-69.185425" ty="656.716064" tz="-0.000075" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 995" />
@@ -1003,7 +1003,7 @@
 	</ActorMesh>
 	<ActorMesh name="996" label="PISCINA" layer="EXTERIOR">
 		<mesh name="996"/>
-		<Transform tx="3245.0" ty="1935.0" tz="39.998661" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="55.814957" ty="1141.716064" tz="39.998661" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 996" />
@@ -1013,7 +1013,7 @@
 	</ActorMesh>
 	<ActorMesh name="997" label="CESPED_JARDIN_SUR" layer="EXTERIOR">
 		<mesh name="997"/>
-		<Transform tx="3152.5" ty="1885.0" tz="-0.000123" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-36.685154" ty="1091.716064" tz="-0.000123" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 997" />
@@ -1023,7 +1023,7 @@
 	</ActorMesh>
 	<ActorMesh name="998" label="SUELO_JARDIN_NORTE" layer="EXTERIOR">
 		<mesh name="998"/>
-		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-46.390316" ty="-39.564587" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 998" />
@@ -1033,7 +1033,7 @@
 	</ActorMesh>
 	<ActorMesh name="999" label="CESPED_JARDIN_NORTE" layer="EXTERIOR">
 		<mesh name="999"/>
-		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-46.390316" ty="-39.564587" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 999" />
@@ -1043,7 +1043,7 @@
 	</ActorMesh>
 	<ActorMesh name="1000" label="VALLA_JARDIN_NORTE" layer="EXTERIOR">
 		<mesh name="1000"/>
-		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<Transform tx="-46.390316" ty="-39.564587" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1000" />
@@ -1053,9 +1053,9 @@
 	</ActorMesh>
 	<ActorMesh name="1008" label="ANTEPECHO_VIDRIO001" layer="EXTERIOR">
 		<mesh name="1008"/>
-		<Transform tx="2829.999512" ty="190.949451" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
+		<Transform tx="-359.185303" ty="-602.334494" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
-		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1008" />
 		<tag value="Max.isGroupHead: false" />
 		<tag value="Max.isGroupMember: false" />
@@ -1063,9 +1063,9 @@
 	</ActorMesh>
 	<ActorMesh name="1009" label="ANTEPECHO_VIDRIO002" layer="EXTERIOR">
 		<mesh name="1008"/>
-		<Transform tx="3100.0" ty="190.949451" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
+		<Transform tx="-89.185059" ty="-602.334494" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
-		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1009" />
 		<tag value="Max.isGroupHead: false" />
 		<tag value="Max.isGroupMember: false" />
@@ -1073,9 +1073,9 @@
 	</ActorMesh>
 	<ActorMesh name="1010" label="ANTEPECHO_VIDRIO003" layer="EXTERIOR">
 		<mesh name="1008"/>
-		<Transform tx="3320.000488" ty="190.949451" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
+		<Transform tx="130.815186" ty="-602.334494" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
-		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1010" />
 		<tag value="Max.isGroupHead: false" />
 		<tag value="Max.isGroupMember: false" />
@@ -1083,9 +1083,9 @@
 	</ActorMesh>
 	<ActorMesh name="1011" label="ANTEPECHO_VIDRIO004" layer="EXTERIOR">
 		<mesh name="1008"/>
-		<Transform tx="3320.000488" ty="1505.020914" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
+		<Transform tx="130.815186" ty="711.736979" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
-		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1011" />
 		<tag value="Max.isGroupHead: false" />
 		<tag value="Max.isGroupMember: false" />
@@ -1093,9 +1093,9 @@
 	</ActorMesh>
 	<ActorMesh name="1014" label="ANTEPECHO_VIDRIO005" layer="EXTERIOR">
 		<mesh name="1008"/>
-		<Transform tx="2970.000294" ty="1505.020914" tz="418.749967" sx="-1.21425" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
+		<Transform tx="-219.184764" ty="711.736979" tz="418.749967" sx="-1.21425" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
-		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1014" />
 		<tag value="Max.isGroupHead: false" />
 		<tag value="Max.isGroupMember: false" />
@@ -1103,9 +1103,9 @@
 	</ActorMesh>
 	<ActorMesh name="1015" label="ANTEPECHO_VIDRIO006" layer="EXTERIOR">
 		<mesh name="1008"/>
-		<Transform tx="2871.418287" ty="1495.000029" tz="418.750091" sx="0.67855" sy="1.0" sz="1.0" qx="0.5" qy="0.5" qz="-0.5" qw="-0.5" qhex64="EEFFFF070000E03FFEFFFF270000E03FBCFFFFCFFFFFDFBFBCFFFFCFFFFFDFBF"/>
+		<Transform tx="-317.766787" ty="701.716093" tz="418.750091" sx="0.67855" sy="1.0" sz="1.0" qx="0.5" qy="0.5" qz="-0.5" qw="-0.5" qhex64="EEFFFF070000E03FFEFFFF270000E03FBCFFFFCFFFFFDFBFBCFFFFCFFFFFDFBF"/>
 		<tag value="Max.superclassof: GeometryClass" />
-		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1015" />
 		<tag value="Max.isGroupHead: false" />
 		<tag value="Max.isGroupMember: false" />
@@ -1113,7 +1113,7 @@
 	</ActorMesh>
 	<ActorMesh name="1016" label="SM_puerta_EXTERIOR_abierta001" layer="CARPINTERIAS">
 		<mesh name="1016"/>
-		<Transform tx="2870.000205" ty="319.102649" tz="0.000015" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000000000000000000000C03B7F769EA0E6BFCD3B7F569EA0E63F"/>
+		<Transform tx="-319.184853" ty="-474.181256" tz="0.000015" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000000000000000000000C03B7F769EA0E6BFCD3B7F569EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 1016" />
@@ -1123,7 +1123,7 @@
 	</ActorMesh>
 	<ActorMesh name="1018" label="2PV-C_350_BALCONERA_002" layer="CARPINTERIAS">
 		<mesh name="1018"/>
-		<Transform tx="3100.000244" ty="330.000031" tz="-0.000072" sx="1.000001" sy="0.999999" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="0000000000000080000000000000000086FEFFFFFFFFEFBF1AFFFFDF4E77933E"/>
+		<Transform tx="-89.18499" ty="-463.283966" tz="-0.000072" sx="1.000001" sy="0.999999" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="0000000000000080000000000000000086FEFFFFFFFFEFBF1AFFFFDF4E77933E"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1018" />
@@ -1133,7 +1133,7 @@
 	</ActorMesh>
 	<ActorMesh name="1019" label="2PV-C_350_BALCONERA_003" layer="CARPINTERIAS">
 		<mesh name="1018"/>
-		<Transform tx="3100.000244" ty="1369.999756" tz="-0.000072" sx="-1.000001" sy="-0.999999" sz="-1.0" qx="-1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="86FEFFFFFFFFEFBF1AFFFFDF4E7793BE00000000000000000000000000000000"/>
+		<Transform tx="-89.18499" ty="576.715881" tz="-0.000072" sx="-1.000001" sy="-0.999999" sz="-1.0" qx="-1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="86FEFFFFFFFFEFBF1AFFFFDF4E7793BE00000000000000000000000000000000"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1019" />
@@ -1143,7 +1143,7 @@
 	</ActorMesh>
 	<ActorMesh name="1020" label="V04_VENTANA001" layer="CARPINTERIAS">
 		<mesh name="1020"/>
-		<Transform tx="2970.0" ty="205.000168" tz="379.999954" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000FEFDFFFFFFFFEFBF94FEFF9FC7AA96BE"/>
+		<Transform tx="-219.185226" ty="-588.283813" tz="379.999954" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000FEFDFFFFFFFFEFBF94FEFF9FC7AA96BE"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1020" />
@@ -1153,7 +1153,7 @@
 	</ActorMesh>
 	<ActorMesh name="1021" label="V04_VENTANA002" layer="CARPINTERIAS">
 		<mesh name="1020"/>
-		<Transform tx="3239.999756" ty="205.000168" tz="379.999954" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000FEFDFFFFFFFFEFBF94FEFF9FC7AA96BE"/>
+		<Transform tx="50.814651" ty="-588.283813" tz="379.999954" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000FEFDFFFFFFFFEFBF94FEFF9FC7AA96BE"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1021" />
@@ -1163,7 +1163,7 @@
 	</ActorMesh>
 	<ActorMesh name="1022" label="V04_VENTANA003" layer="CARPINTERIAS">
 		<mesh name="1020"/>
-		<Transform tx="3460.000244" ty="205.000168" tz="379.999954" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000FEFDFFFFFFFFEFBF94FEFF9FC7AA96BE"/>
+		<Transform tx="270.815125" ty="-588.283813" tz="379.999954" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000FEFDFFFFFFFFEFBF94FEFF9FC7AA96BE"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1022" />
@@ -1173,7 +1173,7 @@
 	</ActorMesh>
 	<ActorMesh name="1023" label="V04_VENTANA004" layer="CARPINTERIAS">
 		<mesh name="1020"/>
-		<Transform tx="3460.000244" ty="1495.0" tz="379.999954" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="FEFDFFFFFFFFEF3F94FEFF9FC7AA96BE00000000000000800000000000000000"/>
+		<Transform tx="270.815125" ty="701.716064" tz="379.999954" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="FEFDFFFFFFFFEF3F94FEFF9FC7AA96BE00000000000000800000000000000000"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1023" />
@@ -1183,7 +1183,7 @@
 	</ActorMesh>
 	<ActorMesh name="1024" label="2PV-C_350_BALCONERA_001" layer="CARPINTERIAS">
 		<mesh name="1024"/>
-		<Transform tx="2970.0" ty="1370.0" tz="339.99823" sx="-1.0" sy="-1.0" sz="-1.0" qx="-1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="86FEFFFFFFFFEFBF1AFFFFDF4E7793BE00000000000000000000000000000000"/>
+		<Transform tx="-219.185303" ty="576.716064" tz="339.99823" sx="-1.0" sy="-1.0" sz="-1.0" qx="-1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="86FEFFFFFFFFEFBF1AFFFFDF4E7793BE00000000000000000000000000000000"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1024" />
@@ -1193,7 +1193,7 @@
 	</ActorMesh>
 	<ActorMesh name="1025" label="PUERTA_010" layer="CARPINTERIAS">
 		<mesh name="1025"/>
-		<Transform tx="3366.002197" ty="888.000061" tz="339.998199" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000000000000000000000DEFFFFFFFFFFEFBFE7FFFFBFA577773E"/>
+		<Transform tx="176.817154" ty="94.716049" tz="339.998199" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000000000000000000000DEFFFFFFFFFFEFBFE7FFFFBFA577773E"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_mesh" />
 		<tag value="Max.handle: 1025" />
@@ -1203,7 +1203,7 @@
 	</ActorMesh>
 	<ActorMesh name="1026" label="PUERTA_011" layer="CARPINTERIAS">
 		<mesh name="1025"/>
-		<Transform tx="3274.000244" ty="622.999817" tz="339.998199" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="00000000000000000000000000000000FAFFFFBFA577673EF8FFFFFFFFFFEF3F"/>
+		<Transform tx="84.815048" ty="-170.284149" tz="339.998199" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="00000000000000000000000000000000FAFFFFBFA577673EF8FFFFFFFFFFEF3F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_mesh" />
 		<tag value="Max.handle: 1026" />
@@ -1213,7 +1213,7 @@
 	</ActorMesh>
 	<ActorMesh name="1027" label="PUERTA_012" layer="CARPINTERIAS">
 		<mesh name="1025"/>
-		<Transform tx="3256.000244" ty="622.999817" tz="339.998199" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="0.0" qz="0.0" qw="0.0" qhex64="F8FFFFFFFFFFEF3FFCFFFFBFA577673E00000000000000800000000000000000"/>
+		<Transform tx="66.815018" ty="-170.284149" tz="339.998199" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="0.0" qz="0.0" qw="0.0" qhex64="F8FFFFFFFFFFEF3FFCFFFFBFA577673E00000000000000800000000000000080"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_mesh" />
 		<tag value="Max.handle: 1027" />
@@ -1223,7 +1223,7 @@
 	</ActorMesh>
 	<ActorMesh name="1028" label="PUERTA_013" layer="CARPINTERIAS">
 		<mesh name="1025"/>
-		<Transform tx="2983.0" ty="622.999817" tz="339.998199" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="0.0" qz="0.0" qw="0.0" qhex64="F8FFFFFFFFFFEF3FFCFFFFBFA577673E00000000000000800000000000000000"/>
+		<Transform tx="-206.18512" ty="-170.284149" tz="339.998199" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="0.0" qz="0.0" qw="0.0" qhex64="F8FFFFFFFFFFEF3FFCFFFFBFA577673E00000000000000800000000000000080"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_mesh" />
 		<tag value="Max.handle: 1028" />
@@ -1233,7 +1233,7 @@
 	</ActorMesh>
 	<ActorMesh name="1029" label="PUERTA_014" layer="CARPINTERIAS">
 		<mesh name="1025"/>
-		<Transform tx="3370.001892" ty="626.999756" tz="339.998199" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex64="00000000000000000000000000000000CD3B7F669EA0E63FCD3B7F669EA0E63F"/>
+		<Transform tx="180.816864" ty="-166.28421" tz="339.998199" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex64="00000000000000000000000000000000CD3B7F669EA0E63FCD3B7F669EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_mesh" />
 		<tag value="Max.handle: 1029" />
@@ -1243,7 +1243,7 @@
 	</ActorMesh>
 	<ActorMesh name="1030" label="PUERTA_015" layer="CARPINTERIAS">
 		<mesh name="1025"/>
-		<Transform tx="3370.001892" ty="1169.003052" tz="339.998199" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.707107" qz="0.0" qw="0.0" qhex64="CD3B7F669EA0E63FCC3B7F669EA0E63F00000000000000800000000000000000"/>
+		<Transform tx="180.816864" ty="375.719147" tz="339.998199" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.707107" qz="0.0" qw="0.0" qhex64="CD3B7F669EA0E63FCC3B7F669EA0E63F00000000000000800000000000000000"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_mesh" />
 		<tag value="Max.handle: 1030" />
@@ -1253,7 +1253,7 @@
 	</ActorMesh>
 	<ActorMesh name="1031" label="PUERTA_016" layer="CARPINTERIAS">
 		<mesh name="1025"/>
-		<Transform tx="3304.0" ty="612.999817" tz="-320.000061" sx="-1.0" sy="-1.0" sz="-1.0" qx="-0.0" qy="1.0" qz="0.0" qw="0.0" qhex64="E9FFFFBFA57777BEDEFFFFFFFFFFEF3F00000000000000800000000000000000"/>
+		<Transform tx="114.814972" ty="-180.284195" tz="-320.000061" sx="-1.0" sy="-1.0" sz="-1.0" qx="-0.0" qy="1.0" qz="0.0" qw="0.0" qhex64="E9FFFFBFA57777BEDEFFFFFFFFFFEF3F00000000000000800000000000000000"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_mesh" />
 		<tag value="Max.handle: 1031" />
@@ -1263,7 +1263,7 @@
 	</ActorMesh>
 	<ActorMesh name="1032" label="SM_puerta_incendio001" layer="CARPINTERIAS">
 		<mesh name="1032"/>
-		<Transform tx="2840.000316" ty="1285.000066" tz="-320.000092" sx="-1.0" sy="-1.0" sz="-1.0" qx="-0.707107" qy="0.707107" qz="0.0" qw="0.0" qhex64="603B7F269EA0E6BF843B7FA69EA0E63F00000000000000800000000000000000"/>
+		<Transform tx="-349.184773" ty="491.716069" tz="-320.000092" sx="-1.0" sy="-1.0" sz="-1.0" qx="-0.707107" qy="0.707107" qz="0.0" qw="0.0" qhex64="603B7F269EA0E6BF843B7FA69EA0E63F00000000000000800000000000000000"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 1032" />
@@ -1273,7 +1273,7 @@
 	</ActorMesh>
 	<ActorMesh name="1033" label="SM_puerta_incendio002" layer="CARPINTERIAS">
 		<mesh name="1032"/>
-		<Transform tx="2833.999691" ty="1239.96834" tz="-320.000076" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="E8FFFFFFFFFFEF3FF2FFFF1F2D4474BE00000000000000800000000000000000"/>
+		<Transform tx="-355.185307" ty="446.684466" tz="-320.000076" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="E8FFFFFFFFFFEF3FF2FFFF1F2D4474BE00000000000000000000000000000000"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 1033" />
@@ -1283,7 +1283,7 @@
 	</ActorMesh>
 	<ActorMesh name="1034" label="SM_puerta_incendio_80_001" layer="CARPINTERIAS">
 		<mesh name="1034"/>
-		<Transform tx="3120.999935" ty="788.000079" tz="-320.000122" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="E8FFFFFFFFFFEF3FF2FFFF1F2D4474BE00000000000000800000000000000000"/>
+		<Transform tx="-68.185208" ty="-5.283904" tz="-320.000122" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="E8FFFFFFFFFFEF3FF2FFFF1F2D4474BE00000000000000000000000000000000"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 1034" />
@@ -1293,7 +1293,7 @@
 	</ActorMesh>
 	<ActorMesh name="1037" label="SM_puerta_incendio_80_002" layer="CARPINTERIAS">
 		<mesh name="1034"/>
-		<Transform tx="2923.000077" ty="788.00003" tz="-320.000198" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.0" qw="1.0" qhex64="00000000000000000000000000000000C0FFFFFFFFFF7FBEC0FFFFFFFFFFEF3F"/>
+		<Transform tx="-266.185134" ty="-5.283916" tz="-320.000198" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.0" qw="1.0" qhex64="00000000000000000000000000000000C0FFFFFFFFFF7FBEC0FFFFFFFFFFEF3F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 1037" />
@@ -1303,7 +1303,7 @@
 	</ActorMesh>
 	<ActorMesh name="1039" label="SM_puerta_incendio003" layer="CARPINTERIAS">
 		<mesh name="1032"/>
-		<Transform tx="2903.000065" ty="622.999741" tz="-320.000031" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.0" qy="1.0" qz="0.0" qw="0.0" qhex64="C0FFFFFFFFFF7F3EC0FFFFFFFFFFEF3F00000000000000800000000000000000"/>
+		<Transform tx="-286.185039" ty="-170.284194" tz="-320.000031" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.0" qy="1.0" qz="0.0" qw="0.0" qhex64="C0FFFFFFFFFF7F3EC0FFFFFFFFFFEF3F00000000000000800000000000000000"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 1039" />
@@ -1313,7 +1313,7 @@
 	</ActorMesh>
 	<ActorMesh name="1040" label="PUERTA_GARAJE" layer="CARPINTERIAS">
 		<mesh name="1040"/>
-		<Transform tx="2862.373043" ty="1323.80003" tz="-322.95052" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000F8FFFFFFFFFFEFBFFAFFFFBFA57767BE"/>
+		<Transform tx="-326.811955" ty="530.516033" tz="-322.95052" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000F8FFFFFFFFFFEFBFFAFFFFBFA57767BE"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 1040" />
@@ -1323,7 +1323,7 @@
 	</ActorMesh>
 	<ActorMesh name="1041" label="SM_puerta_ascensor" layer="CARPINTERIAS">
 		<mesh name="1041"/>
-		<Transform tx="2867.000443" ty="724.399841" tz="-0.000135" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000000AD3B7F469EA0E63F"/>
+		<Transform tx="-322.184814" ty="-68.884094" tz="-0.000135" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000000AD3B7F469EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1041" />
@@ -1333,7 +1333,7 @@
 	</ActorMesh>
 	<ActorMesh name="1042" label="SM_puerta_ascensor001" layer="CARPINTERIAS">
 		<mesh name="1042"/>
-		<Transform tx="2867.000443" ty="724.399841" tz="339.998279" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000000AD3B7F469EA0E63F"/>
+		<Transform tx="-322.184814" ty="-68.884094" tz="339.998279" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000000AD3B7F469EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 1042" />
@@ -1343,7 +1343,7 @@
 	</ActorMesh>
 	<ActorMesh name="1043" label="SM_puerta_ascensor002" layer="CARPINTERIAS">
 		<mesh name="1043"/>
-		<Transform tx="2867.000443" ty="724.399841" tz="-319.999981" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000000AD3B7F469EA0E63F"/>
+		<Transform tx="-322.184814" ty="-68.884094" tz="-319.999981" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000000AD3B7F469EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 1043" />
@@ -1353,7 +1353,7 @@
 	</ActorMesh>
 	<ActorMesh name="1045" label="1_PV-B_PUERTA_ABIERTA_001" layer="CARPINTERIAS">
 		<mesh name="1045"/>
-		<Transform tx="2913.397461" ty="1374.825806" tz="39.777046" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.707107" qz="0.0" qw="0.0" qhex64="AD3B7F469EA0E63FBF3B7F869EA0E63F00000000000000800000000000000000"/>
+		<Transform tx="-275.78772" ty="581.541931" tz="39.777046" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.707107" qz="0.0" qw="0.0" qhex64="AD3B7F469EA0E63FBF3B7F869EA0E63F00000000000000800000000000000000"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 1045" />
@@ -1363,7 +1363,7 @@
 	</ActorMesh>
 	<ActorMesh name="1046" label="vidrio_jardin_sur" layer="CARPINTERIAS">
 		<mesh name="1046"/>
-		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<Transform tx="-3189.185059" ty="-793.283936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1046" />
