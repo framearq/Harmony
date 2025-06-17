@@ -1,0 +1,2188 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>5.3.2-29276901</SDKVersion>
+	<Host>Autodesk 3dsmax 26.0.940Arnold</Host>
+	<Application Vendor="Autodesk" ProductName="3dsmax" ProductVersion="26.0.940"/>
+	<ResourcePath>D:/Framearq/03 Proyectos/21 Harmony/GITHUB/DATASMITH</ResourcePath>
+	<User ID="89aa7bfa4acfd9b8fa1b6a8220722e94" OS="Windows 8"/>
+	<Geolocation/>
+	<StaticMesh name="5" label="AGUA_PISCINA">
+		<file path="Harmony_Assets/5.udsmesh"/>
+		<Size a="103499.945312" x="450.0" y="0.0" z="229.999878"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5f52c2c1c50fe3345a54de727aa98b60"/>
+		<Material id="1" name="Agua_-_Ondulada"/>
+	</StaticMesh>
+	<StaticMesh name="34" label="VALLA_JARDIN_SUR">
+		<file path="Harmony_Assets/34.udsmesh"/>
+		<Size a="266082.15625" x="787.212158" y="110.0" z="10.606445"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7b41d42b8c8d0c03a946b99d78b531ab"/>
+		<Material id="1" name="SUELO"/>
+	</StaticMesh>
+	<StaticMesh name="60" label="LAMAS_FACHADA_NORTE">
+		<file path="Harmony_Assets/60.udsmesh"/>
+		<Size a="316519.59375" x="879.326172" y="600.0" z="130.000412"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7e14f7704d5d2d6a019c1f8d9b453228"/>
+		<Material id="1" name="Rc03_lamas"/>
+	</StaticMesh>
+	<StaticMesh name="81" label="PAREDES_TRASTERO">
+		<file path="Harmony_Assets/81.udsmesh"/>
+		<Size a="577595.6875" x="779.999939" y="282.999817" z="280.000183"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1f2a294aa27b95f26aec8ffe3b4b5cf5"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="82" label="TECHO_TRASTERO">
+		<file path="Harmony_Assets/82.udsmesh"/>
+		<Size a="219864.828125" x="779.999939" y="282.999817" z="0.000275"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="23e13ec9533d1620e084883ddc85c470"/>
+	</StaticMesh>
+	<StaticMesh name="84" label="PAREDES_BANO_SOTANO">
+		<file path="Harmony_Assets/84.udsmesh"/>
+		<Size a="196738.765625" x="229.999924" y="155.000305" z="280.000092"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="54972ecca0fd362dcfa685413e3f30f7"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+	</StaticMesh>
+	<StaticMesh name="85" label="TECHO_BANO_SOTANO">
+		<file path="Harmony_Assets/85.udsmesh"/>
+		<Size a="35650.046875" x="229.999924" y="155.000259" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="02ac7ed78cef0a555cdea5c6687a71cf"/>
+	</StaticMesh>
+	<StaticMesh name="87" label="PAREDES_SALA_MAQUINAS">
+		<file path="Harmony_Assets/87.udsmesh"/>
+		<Size a="222262.203125" x="263.000092" y="165.000244" z="280.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8affac86104fc02c909b68adbc22e14e"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="88" label="TECHO_SALA_MAQUINAS">
+		<file path="Harmony_Assets/88.udsmesh"/>
+		<Size a="43395.078125" x="263.000092" y="165.000244" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b6be00fb4487d9486f2d34be53480018"/>
+	</StaticMesh>
+	<StaticMesh name="90" label="PAREDES_DISTRIBUIDOR_SOTANO">
+		<file path="Harmony_Assets/90.udsmesh"/>
+		<Size a="156639.1875" x="177.466965" y="165.000244" z="280.000092"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cd025b0535c51184922035f4acc50235"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="91" label="TECHO_DISTRIBUIDOR">
+		<file path="Harmony_Assets/91.udsmesh"/>
+		<Size a="24750.017578" x="150.0" y="165.000244" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2c0cbdbec4a0073191ce313bcc407388"/>
+	</StaticMesh>
+	<StaticMesh name="94" label="PAREDES_GARAJE">
+		<file path="Harmony_Assets/94.udsmesh"/>
+		<Size a="552286.5" x="680.179932" y="582.0" z="280.512848"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="94dd3816e227465c670e34afa511a5e8"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="95" label="TECHO_GARAJE">
+		<file path="Harmony_Assets/95.udsmesh"/>
+		<Size a="390817.875" x="680.179932" y="582.0" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f6208b01736690dbb0093d4a877c8fdc"/>
+	</StaticMesh>
+	<StaticMesh name="97" label="PAREDES_V_INDEPENDIENTE">
+		<file path="Harmony_Assets/97.udsmesh"/>
+		<Size a="81697.984375" x="90.000153" y="115.031715" z="280.000122"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cfb60d1cacf4420cccc50e177b511640"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="98" label="TECHO_V_INDEPENDIENTE">
+		<file path="Harmony_Assets/98.udsmesh"/>
+		<Size a="10352.867188" x="90.000153" y="115.031715" z="0.000061"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="16d107921fd9fe4c1d194d5a2c241318"/>
+	</StaticMesh>
+	<StaticMesh name="100" label="PAREDES_ESCALERA_GARAJE">
+		<file path="Harmony_Assets/100.udsmesh"/>
+		<Size a="647107.875" x="118.000031" y="626.03186" z="919.998169"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bdb77e1b565eae5306a9bd9555179830"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="105" label="ESCALERA_SOTANO">
+		<file path="Harmony_Assets/105.udsmesh"/>
+		<Size a="67346.1875" x="90.004883" y="320.001404" z="375.994934"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="71cf20a49e0602fcbf8c89ed6fc6ab31"/>
+		<Material id="1" name="Tablas_-_01"/>
+	</StaticMesh>
+	<StaticMesh name="106" label="SUELO_SOTANO">
+		<file path="Harmony_Assets/106.udsmesh"/>
+		<Size a="738319.125" x="779.999878" y="1049.000122" z="0.513029"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="981129e4a7350b1aa88e7a9130adeb41"/>
+	</StaticMesh>
+	<StaticMesh name="699" label="PAREDES_PB">
+		<file path="Harmony_Assets/699.udsmesh"/>
+		<Size a="790648.9375" x="780.000305" y="1040.000244" z="599.99823"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="968b615fb19d5d2b2659285bfd1dcf21"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="700" label="TECHO_SALON_COMEDOR">
+		<file path="Harmony_Assets/700.udsmesh"/>
+		<Size a="729814.875" x="750.00061" y="1040.000122" z="20.150024"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b355e641e33c2e07fb2fe151c79dc2db"/>
+	</StaticMesh>
+	<StaticMesh name="705" label="PAREDES_ASEO_PB">
+		<file path="Harmony_Assets/705.udsmesh"/>
+		<Size a="140811.515625" x="106.999969" y="212.996948" z="259.850159"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f5839b320ca7b2367c59e13afa56d668"/>
+	</StaticMesh>
+	<StaticMesh name="706" label="TECHO_ASEO_PB">
+		<file path="Harmony_Assets/706.udsmesh"/>
+		<Size a="22790.667969" x="106.999969" y="212.996948" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="565a9be9baeca0571c23584eb32e3e4b"/>
+	</StaticMesh>
+	<StaticMesh name="708" label="ESCALERA_PB">
+		<file path="Harmony_Assets/708.udsmesh"/>
+		<Size a="147287.265625" x="90.000244" y="340.0" z="626.031494"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8493c0df89ef9bb06cd7d48500f9bd73"/>
+		<Material id="1" name="Tablas_-_01"/>
+	</StaticMesh>
+	<StaticMesh name="710" label="BARROTES_PB">
+		<file path="Harmony_Assets/710.udsmesh"/>
+		<Size a="113513.023438" x="171.242676" y="139.849731" z="934.264893"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2260d814eb772e7736bb52c36e845cdb"/>
+		<Material id="1" name="Pintura-_Gris_Claro"/>
+	</StaticMesh>
+	<StaticMesh name="948" label="PAREDES_HABITACION_01">
+		<file path="Harmony_Assets/948.udsmesh"/>
+		<Size a="307160.1875" x="250.0" y="407.999908" z="280.001404"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5b93ecd0201734a47b6c2e9f6aabf977"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="949" label="TECHO_HABITACION_01">
+		<file path="Harmony_Assets/949.udsmesh"/>
+		<Size a="104939.890625" x="250.0" y="407.999817" z="20.000305"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="537519d202183581e1d855823a9a5905"/>
+	</StaticMesh>
+	<StaticMesh name="951" label="SUELO_PB">
+		<file path="Harmony_Assets/951.udsmesh"/>
+		<Size a="721522.4375" x="779.000305" y="1040.000122" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="abeb57fe9338d105b487f6a1214dabbd"/>
+	</StaticMesh>
+	<StaticMesh name="952" label="PAREDES_HABITACION_02">
+		<file path="Harmony_Assets/952.udsmesh"/>
+		<Size a="304329.9375" x="250.000198" y="408.000122" z="280.000916"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="15b1e87739ed67c587f4ca81e6e38e79"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="953" label="TECHO_HABITACION_02">
+		<file path="Harmony_Assets/953.udsmesh"/>
+		<Size a="106650.007812" x="250.000198" y="408.000214" z="20.000122"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="70dfcf56f93329c97d7b40a34a083d6d"/>
+	</StaticMesh>
+	<StaticMesh name="956" label="PAREDES_HABITACION_03">
+		<file path="Harmony_Assets/956.udsmesh"/>
+		<Size a="308723.15625" x="260.000244" y="408.000183" z="280.000061"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8567c6098e1865a34157a75d3fc20928"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="957" label="TECHO_HABITACION_03">
+		<file path="Harmony_Assets/957.udsmesh"/>
+		<Size a="111029.804688" x="260.000244" y="408.000244" z="19.999176"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="835af9f1208e73dcfed3dbcd5fdec139"/>
+	</StaticMesh>
+	<StaticMesh name="959" label="PAREDES_BANO">
+		<file path="Harmony_Assets/959.udsmesh"/>
+		<Size a="196898.90625" x="149.997711" y="265.000427" z="260.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dc0290e124f987422dba42071a4a2129"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+	</StaticMesh>
+	<StaticMesh name="960" label="TECHO_BANO">
+		<file path="Harmony_Assets/960.udsmesh"/>
+		<Size a="37349.421875" x="149.997711" y="265.000427" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9ec8a3dc8b112821f49401e8a76fa1b7"/>
+	</StaticMesh>
+	<StaticMesh name="962" label="PAREDES_BANO_PPAL">
+		<file path="Harmony_Assets/962.udsmesh"/>
+		<Size a="202100.3125" x="149.998093" y="275.003052" z="260.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1d49e4d2986712ca9a358f110078caaa"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+	</StaticMesh>
+	<StaticMesh name="963" label="TECHO_BANO_PPAL">
+		<file path="Harmony_Assets/963.udsmesh"/>
+		<Size a="40649.859375" x="149.998093" y="275.003052" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a3fe0aa29674be11c1e04ba4c816afc5"/>
+	</StaticMesh>
+	<StaticMesh name="965" label="PAREDES_HABITACION_PPAL">
+		<file path="Harmony_Assets/965.udsmesh"/>
+		<Size a="429591.875" x="339.999756" y="597.0" z="279.999939"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a58ec30e12a0658bba110f24e72112a7"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="966" label="TECHO_HABITA_PPAL">
+		<file path="Harmony_Assets/966.udsmesh"/>
+		<Size a="169880.046875" x="339.999756" y="597.0" z="19.999939"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6f2c32583251f2ce29513d4d07cdb33f"/>
+	</StaticMesh>
+	<StaticMesh name="968" label="PAREDES_SALA_POLIVALENTE">
+		<file path="Harmony_Assets/968.udsmesh"/>
+		<Size a="889078.3125" x="530.002563" y="747.000366" z="692.105469"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f1f4a5ce7190a75b15cb327eccc2ccc2"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="969" label="TECHO_SALA_POLI">
+		<file path="Harmony_Assets/969.udsmesh"/>
+		<Size a="314879.75" x="620.002197" y="747.000244" z="20.000183"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1586ab64d84cf4d60040a6f8812bf690"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+	</StaticMesh>
+	<StaticMesh name="976" label="SUELO_P1">
+		<file path="Harmony_Assets/976.udsmesh"/>
+		<Size a="788092.25" x="779.000305" y="1289.000244" z="0.000072"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4e6c2adbb01097cd3e071d884d2581d4"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+	</StaticMesh>
+	<StaticMesh name="979" label="LUCERNARIO_CUBIERTA">
+		<file path="Harmony_Assets/979.udsmesh"/>
+		<Size a="99410.195312" x="242.822266" y="5.0" z="155.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8b9ca20e40ddf4407822401a88f4cbe4"/>
+		<Material id="1" name="Metal_-_Zinc"/>
+		<Material id="2" name="Vidrio_-_Claro_Rapido"/>
+	</StaticMesh>
+	<StaticMesh name="981" label="FACHADA_NORTE">
+		<file path="Harmony_Assets/981.udsmesh"/>
+		<Size a="895449.75" x="812.000366" y="331.999939" z="850.000183"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b577bf176ef0ab13fc4d5d2e57693dac"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="5" name="APLACADO_PIEDRA"/>
+		<Material id="6" name="MONOCAPA_MARRON"/>
+		<Material id="7" name="MURO_HORMIGON"/>
+	</StaticMesh>
+	<StaticMesh name="990" label="FACHADA_SUR">
+		<file path="Harmony_Assets/990.udsmesh"/>
+		<Size a="1209362.75" x="1315.396118" y="730.000061" z="730.000244"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2a16e5a1ae8439cec9abf9a82330a2b1"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="5" name="APLACADO_PIEDRA"/>
+		<Material id="6" name="MONOCAPA_MARRON"/>
+	</StaticMesh>
+	<StaticMesh name="991" label="LAMAS_FACHADA_SUR">
+		<file path="Harmony_Assets/991.udsmesh"/>
+		<Size a="49200.738281" x="102.000244" y="220.000427" z="20.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="55fafcab4fd9dd93ed6d3c25b3bc8f60"/>
+		<Material id="1" name="Rc03_lamas"/>
+	</StaticMesh>
+	<StaticMesh name="992" label="SUELO_BALCON_SUR">
+		<file path="Harmony_Assets/992.udsmesh"/>
+		<Size a="29850.019531" x="269.999878" y="125.000198" z="0.000644"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0524a967abe296160f26fa52064c430c"/>
+	</StaticMesh>
+	<StaticMesh name="995" label="SUELO_JARDIN_SUR">
+		<file path="Harmony_Assets/995.udsmesh"/>
+		<Size a="169499.96875" x="780.000305" y="229.999924" z="0.000228"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="af93b30af3055e1f673af2110dddffbe"/>
+	</StaticMesh>
+	<StaticMesh name="996" label="PISCINA">
+		<file path="Harmony_Assets/996.udsmesh"/>
+		<Size a="397898.59375" x="650.000122" y="270.000244" z="140.000183"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="947b72462f40ed52e87179b8b3b9bbb7"/>
+	</StaticMesh>
+	<StaticMesh name="997" label="CESPED_JARDIN_SUR">
+		<file path="Harmony_Assets/997.udsmesh"/>
+		<Size a="191100.046875" x="780.000305" y="470.000244" z="0.000086"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="004d4fc00a6a3999aede41d1c6bf9ddc"/>
+	</StaticMesh>
+	<StaticMesh name="998" label="SUELO_JARDIN_NORTE">
+		<file path="Harmony_Assets/998.udsmesh"/>
+		<Size a="159824.828125" x="679.999695" y="310.000183" z="0.000189"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="41ff1e0a4cd025af316e812bf3ee2670"/>
+		<Material id="4" name="SUELO"/>
+	</StaticMesh>
+	<StaticMesh name="999" label="CESPED_JARDIN_NORTE">
+		<file path="Harmony_Assets/999.udsmesh"/>
+		<Size a="23475.0" x="250.178894" y="177.500122" z="120.000038"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e2a2bee2cfb81f38953611f70804e572"/>
+		<Material id="2" name="Hierba_-_Marron"/>
+	</StaticMesh>
+	<StaticMesh name="1000" label="VALLA_JARDIN_NORTE">
+		<file path="Harmony_Assets/1000.udsmesh"/>
+		<Size a="205670.0625" x="989.095764" y="22.0" z="235.000061"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ba27a938f30f3a68962771de62b27be4"/>
+		<Material id="3" name="Metal_-_Oxidado_24"/>
+	</StaticMesh>
+	<StaticMesh name="1008" label="ANTEPECHO_VIDRIO001">
+		<file path="Harmony_Assets/1008.udsmesh"/>
+		<Size a="16834.773438" x="140.0" y="57.499939" z="2.100159"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cd7b723e85d335a7e774ac9b47a2fcb5"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+		<Material id="3" name="Material__79"/>
+	</StaticMesh>
+	<StaticMesh name="1016" label="SM_puerta_EXTERIOR_abierta001">
+		<file path="Harmony_Assets/1016.udsmesh"/>
+		<Size a="68814.304688" x="102.707176" y="99.999748" z="259.859924"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2584957367f49a3cf177c664b1682bf5"/>
+		<Material id="1" name="Material__1125"/>
+	</StaticMesh>
+	<StaticMesh name="1018" label="2PV-C_350_BALCONERA_002">
+		<file path="Harmony_Assets/1018.udsmesh"/>
+		<Size a="271572.21875" x="366.497864" y="17.420103" z="265.35907"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f4b043b13647c75e477deba8d60ae6ab"/>
+		<Material id="1" name="Material__38"/>
+		<Material id="2" name="Material__37_2"/>
+		<Material id="3" name="Material__25"/>
+	</StaticMesh>
+	<StaticMesh name="1020" label="V04_VENTANA001">
+		<file path="Harmony_Assets/1020.udsmesh"/>
+		<Size a="117120.921875" x="140.000809" y="16.885792" z="229.998199"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="34f9e9c2aa417a0cbb8e72a950915159"/>
+		<Material id="1" name="Material__38_2"/>
+		<Material id="2" name="Material__37_3"/>
+		<Material id="3" name="Material__25_2"/>
+	</StaticMesh>
+	<StaticMesh name="1024" label="2PV-C_350_BALCONERA_001">
+		<file path="Harmony_Assets/1024.udsmesh"/>
+		<Size a="133321.53125" x="146.497955" y="17.420023" z="265.509583"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8742f90bb2d511afaa31073f1c1558dd"/>
+		<Material id="1" name="Material__38_3"/>
+		<Material id="2" name="Material__37_4"/>
+		<Material id="3" name="Material__25_3"/>
+	</StaticMesh>
+	<StaticMesh name="1025" label="PUERTA_010">
+		<file path="Harmony_Assets/1025.udsmesh"/>
+		<Size a="55176.734375" x="90.31559" y="82.983032" z="210.084457"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="317d1ed36127a93fc29e918a2b776b19"/>
+		<Material id="1" name="M_puerta_interior"/>
+	</StaticMesh>
+	<StaticMesh name="1032" label="SM_puerta_incendio001">
+		<file path="Harmony_Assets/1032.udsmesh"/>
+		<Size a="60308.132812" x="88.481049" y="92.841721" z="214.446198"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0da3e3a8337af85481e0c38248a70a43"/>
+		<Material id="1" name="MI_metal_cromado"/>
+		<Material id="2" name="MI_acero_inoxidable"/>
+		<Material id="4" name="M_plastico_Liso_color"/>
+	</StaticMesh>
+	<StaticMesh name="1034" label="SM_puerta_incendio_80_001">
+		<file path="Harmony_Assets/1034.udsmesh"/>
+		<Size a="60640.238281" x="98.221313" y="92.841576" z="214.540253"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0c7622c4cb4632ea82ada7207fb3b5c2"/>
+		<Material id="1" name="MI_metal_cromado"/>
+		<Material id="2" name="MI_acero_inoxidable"/>
+		<Material id="4" name="M_plastico_Liso_color"/>
+	</StaticMesh>
+	<StaticMesh name="1040" label="PUERTA_GARAJE">
+		<file path="Harmony_Assets/1040.udsmesh"/>
+		<Size a="393408.40625" x="590.490601" y="345.704742" z="236.009491"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f244cf62b0b6908ca4289c8ca21c6519"/>
+		<Material id="1" name="PVC"/>
+		<Material id="2" name="rubber"/>
+		<Material id="3" name="zinc"/>
+		<Material id="5" name="Steel"/>
+	</StaticMesh>
+	<StaticMesh name="1041" label="SM_puerta_ascensor">
+		<file path="Harmony_Assets/1041.udsmesh"/>
+		<Size a="64665.199219" x="12.0" y="234.000046" z="110.800232"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c094bdca2211916dc4035462e4b7932a"/>
+		<Material id="1" name="Metal_-_Cromo_01"/>
+	</StaticMesh>
+	<StaticMesh name="1042" label="SM_puerta_ascensor001">
+		<file path="Harmony_Assets/1042.udsmesh"/>
+		<Size a="48985.050781" x="12.0" y="216.001709" z="86.200317"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1d6743da1553dc4293fb7ff9b73658d7"/>
+		<Material id="1" name="Metal_-_Cromo_01"/>
+	</StaticMesh>
+	<StaticMesh name="1043" label="SM_puerta_ascensor002">
+		<file path="Harmony_Assets/1043.udsmesh"/>
+		<Size a="61737.347656" x="12.0" y="234.000046" z="104.800598"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6ff03e7f5d6a39dac50927cb1eca0d0e"/>
+		<Material id="1" name="Metal_-_Cromo_01"/>
+	</StaticMesh>
+	<StaticMesh name="1045" label="1_PV-B_PUERTA_ABIERTA_001">
+		<file path="Harmony_Assets/1045.udsmesh"/>
+		<Size a="69350.664062" x="87.233582" y="96.59671" z="263.393005"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dac65e190a11ebd97d67d4a30a4ff12d"/>
+		<Material id="1" name="Material__38_4"/>
+		<Material id="2" name="Material__37_5"/>
+		<Material id="3" name="Material__25_4"/>
+	</StaticMesh>
+	<StaticMesh name="1046" label="vidrio_jardin_sur">
+		<file path="Harmony_Assets/1046.udsmesh"/>
+		<Size a="73796.875" x="159.13916" y="107.500008" z="178.250092"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="42f780cff0b27c280b6fd2b14b1d3032"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<ActorMesh name="5" label="AGUA_PISCINA" layer="EXTERIOR">
+		<mesh name="5"/>
+		<Transform tx="3245.0" ty="1935.000003" tz="29.024121" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="C03B7F769EA0E6BF00000000000000000000000000000000CD3B7F569EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 5" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="34" label="VALLA_JARDIN_SUR" layer="EXTERIOR">
+		<mesh name="34"/>
+		<Transform tx="3143.506348" ty="2091.990811" tz="54.999823" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="C03B7F769EA0E6BF00000000000000000000000000000000CD3B7F569EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 34" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="60" label="LAMAS_FACHADA_NORTE" layer="EXTERIOR">
+		<mesh name="60"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="C03B7F769EA0E6BF00000000000000000000000000000080CD3B7F569EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 60" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="81" label="PAREDES_TRASTERO" layer="PAREDES">
+		<mesh name="81"/>
+		<Transform tx="3162.558105" ty="497.339142" tz="-239.999969" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 81" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="82" label="TECHO_TRASTERO" layer="TECHO">
+		<mesh name="82"/>
+		<Transform tx="3162.558105" ty="497.339142" tz="-239.999969" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 82" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="84" label="PAREDES_BANO_SOTANO" layer="PAREDES">
+		<mesh name="84"/>
+		<Transform tx="3393.0" ty="674.666504" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 84" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="85" label="TECHO_BANO_SOTANO" layer="TECHO">
+		<mesh name="85"/>
+		<Transform tx="3393.0" ty="674.666504" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 85" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="87" label="PAREDES_SALA_MAQUINAS" layer="PAREDES">
+		<mesh name="87"/>
+		<Transform tx="3131.000244" ty="732.999939" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 87" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="88" label="TECHO_SALA_MAQUINAS" layer="TECHO">
+		<mesh name="88"/>
+		<Transform tx="3131.000244" ty="732.999939" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 88" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="90" label="PAREDES_DISTRIBUIDOR_SOTANO" layer="PAREDES">
+		<mesh name="90"/>
+		<Transform tx="2939.666748" ty="707.888794" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 90" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="91" label="TECHO_DISTRIBUIDOR" layer="TECHO">
+		<mesh name="91"/>
+		<Transform tx="2939.666748" ty="707.888794" tz="-320.000061" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 91" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="94" label="PAREDES_GARAJE" layer="PAREDES">
+		<mesh name="94"/>
+		<Transform tx="3097.16748" ty="1036.701782" tz="-307.391602" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 94" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="95" label="TECHO_GARAJE" layer="TECHO">
+		<mesh name="95"/>
+		<Transform tx="3097.16748" ty="1036.701782" tz="-307.391602" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 95" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="97" label="PAREDES_V_INDEPENDIENTE" layer="PAREDES">
+		<mesh name="97"/>
+		<Transform tx="2804.596924" ty="1279.981812" tz="-274.285797" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 97" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="98" label="TECHO_V_INDEPENDIENTE" layer="TECHO">
+		<mesh name="98"/>
+		<Transform tx="2804.596924" ty="1279.981812" tz="-274.285797" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 98" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="100" label="PAREDES_ESCALERA_GARAJE" layer="PAREDES">
+		<mesh name="100"/>
+		<Transform tx="2795.0" ty="991.968323" tz="-319.999969" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 100" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="105" label="ESCALERA_SOTANO" layer="SUELO">
+		<mesh name="105"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 105" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="106" label="SUELO_SOTANO" layer="SUELO">
+		<mesh name="106"/>
+		<Transform tx="3097.16748" ty="1036.701782" tz="-307.391602" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 106" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="699" label="PAREDES_PB" layer="PAREDES">
+		<mesh name="699"/>
+		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 699" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="700" label="TECHO_SALON_COMEDOR" layer="TECHO">
+		<mesh name="700"/>
+		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 700" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="705" label="PAREDES_ASEO_PB" layer="PAREDES">
+		<mesh name="705"/>
+		<Transform tx="2816.0" ty="413.998413" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 705" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="706" label="TECHO_ASEO_PB" layer="TECHO">
+		<mesh name="706"/>
+		<Transform tx="2816.0" ty="413.998413" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 706" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="708" label="ESCALERA_PB" layer="SUELO">
+		<mesh name="708"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 708" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="710" label="BARROTES_PB" layer="PAREDES">
+		<mesh name="710"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 710" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="948" label="PAREDES_HABITACION_01" layer="PAREDES">
+		<mesh name="948"/>
+		<Transform tx="2890.855713" ty="436.683929" tz="283.331848" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 948" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="949" label="TECHO_HABITACION_01" layer="TECHO">
+		<mesh name="949"/>
+		<Transform tx="2890.855713" ty="436.683929" tz="243.331879" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 949" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="951" label="SUELO_PB" layer="SUELO">
+		<mesh name="951"/>
+		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 951" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="952" label="PAREDES_HABITACION_02" layer="PAREDES">
+		<mesh name="952"/>
+		<Transform tx="3085.461914" ty="397.692139" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 952" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="953" label="TECHO_HABITACION_02" layer="TECHO">
+		<mesh name="953"/>
+		<Transform tx="3085.461914" ty="397.692139" tz="299.99826" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 953" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="956" label="PAREDES_HABITACION_03" layer="PAREDES">
+		<mesh name="956"/>
+		<Transform tx="3447.128662" ty="409.856934" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 956" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="957" label="TECHO_HABITACION_03" layer="TECHO">
+		<mesh name="957"/>
+		<Transform tx="3447.128662" ty="409.856934" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 957" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="959" label="PAREDES_BANO" layer="PAREDES">
+		<mesh name="959"/>
+		<Transform tx="3447.500977" ty="747.749573" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 959" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="960" label="TECHO_BANO" layer="TECHO">
+		<mesh name="960"/>
+		<Transform tx="3447.500977" ty="747.749573" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 960" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="962" label="PAREDES_BANO_PPAL" layer="PAREDES">
+		<mesh name="962"/>
+		<Transform tx="3457.500732" ty="1028.251709" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 962" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="963" label="TECHO_BANO_PPAL" layer="TECHO">
+		<mesh name="963"/>
+		<Transform tx="3457.500732" ty="1028.251709" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 963" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="965" label="PAREDES_HABITACION_PPAL" layer="PAREDES">
+		<mesh name="965"/>
+		<Transform tx="3401.375488" ty="1231.625732" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 965" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="966" label="TECHO_HABITA_PPAL" layer="TECHO">
+		<mesh name="966"/>
+		<Transform tx="3401.375488" ty="1231.625732" tz="339.99823" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 966" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="968" label="PAREDES_SALA_POLIVALENTE" layer="PAREDES">
+		<mesh name="968"/>
+		<Transform tx="3048.867676" ty="874.406616" tz="339.998108" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 968" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="969" label="TECHO_SALA_POLI" layer="TECHO">
+		<mesh name="969"/>
+		<Transform tx="3048.867676" ty="874.406616" tz="339.998108" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 969" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="976" label="SUELO_P1" layer="SUELO">
+		<mesh name="976"/>
+		<Transform tx="3048.867676" ty="874.406616" tz="339.998108" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 976" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="979" label="LUCERNARIO_CUBIERTA" layer="CARPINTERIAS">
+		<mesh name="979"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 979" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="981" label="FACHADA_NORTE" layer="EXTERIOR">
+		<mesh name="981"/>
+		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 981" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="990" label="FACHADA_SUR" layer="EXTERIOR">
+		<mesh name="990"/>
+		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 990" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="991" label="LAMAS_FACHADA_SUR" layer="EXTERIOR">
+		<mesh name="991"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 991" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="992" label="SUELO_BALCON_SUR" layer="EXTERIOR">
+		<mesh name="992"/>
+		<Transform tx="3022.500244" ty="1416.25" tz="339.999207" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 992" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="995" label="SUELO_JARDIN_SUR" layer="EXTERIOR">
+		<mesh name="995"/>
+		<Transform tx="3119.999756" ty="1450.0" tz="-0.000075" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 995" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="996" label="PISCINA" layer="EXTERIOR">
+		<mesh name="996"/>
+		<Transform tx="3245.0" ty="1935.0" tz="39.998661" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 996" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="997" label="CESPED_JARDIN_SUR" layer="EXTERIOR">
+		<mesh name="997"/>
+		<Transform tx="3152.5" ty="1885.0" tz="-0.000123" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 997" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="998" label="SUELO_JARDIN_NORTE" layer="EXTERIOR">
+		<mesh name="998"/>
+		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 998" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="999" label="CESPED_JARDIN_NORTE" layer="EXTERIOR">
+		<mesh name="999"/>
+		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 999" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1000" label="VALLA_JARDIN_NORTE" layer="EXTERIOR">
+		<mesh name="1000"/>
+		<Transform tx="3142.794922" ty="753.71936" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1000" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1008" label="ANTEPECHO_VIDRIO001" layer="EXTERIOR">
+		<mesh name="1008"/>
+		<Transform tx="2829.999512" ty="190.949451" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1008" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1009" label="ANTEPECHO_VIDRIO002" layer="EXTERIOR">
+		<mesh name="1008"/>
+		<Transform tx="3100.0" ty="190.949451" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1009" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1010" label="ANTEPECHO_VIDRIO003" layer="EXTERIOR">
+		<mesh name="1008"/>
+		<Transform tx="3320.000488" ty="190.949451" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1010" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1011" label="ANTEPECHO_VIDRIO004" layer="EXTERIOR">
+		<mesh name="1008"/>
+		<Transform tx="3320.000488" ty="1505.020914" tz="418.749967" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1011" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1014" label="ANTEPECHO_VIDRIO005" layer="EXTERIOR">
+		<mesh name="1008"/>
+		<Transform tx="2970.000294" ty="1505.020914" tz="418.749967" sx="-1.21425" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="AD3B7F469EA0E63F00000000000000000000000000000000C03B7F869EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1014" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1015" label="ANTEPECHO_VIDRIO006" layer="EXTERIOR">
+		<mesh name="1008"/>
+		<Transform tx="2871.418287" ty="1495.000029" tz="418.750091" sx="0.67855" sy="1.0" sz="1.0" qx="0.5" qy="0.5" qz="-0.5" qw="-0.5" qhex64="EEFFFF070000E03FFEFFFF270000E03FBCFFFFCFFFFFDFBFBCFFFFCFFFFFDFBF"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1015" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1016" label="SM_puerta_EXTERIOR_abierta001" layer="CARPINTERIAS">
+		<mesh name="1016"/>
+		<Transform tx="2870.000205" ty="319.102649" tz="0.000015" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000000000000000000000C03B7F769EA0E6BFCD3B7F569EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1016" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1018" label="2PV-C_350_BALCONERA_002" layer="CARPINTERIAS">
+		<mesh name="1018"/>
+		<Transform tx="3100.000244" ty="330.000031" tz="-0.000072" sx="1.000001" sy="0.999999" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="0000000000000080000000000000000086FEFFFFFFFFEFBF1AFFFFDF4E77933E"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1018" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1019" label="2PV-C_350_BALCONERA_003" layer="CARPINTERIAS">
+		<mesh name="1018"/>
+		<Transform tx="3100.000244" ty="1369.999756" tz="-0.000072" sx="-1.000001" sy="-0.999999" sz="-1.0" qx="-1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="86FEFFFFFFFFEFBF1AFFFFDF4E7793BE00000000000000000000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1019" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1020" label="V04_VENTANA001" layer="CARPINTERIAS">
+		<mesh name="1020"/>
+		<Transform tx="2970.0" ty="205.000168" tz="379.999954" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000FEFDFFFFFFFFEFBF94FEFF9FC7AA96BE"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1020" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1021" label="V04_VENTANA002" layer="CARPINTERIAS">
+		<mesh name="1020"/>
+		<Transform tx="3239.999756" ty="205.000168" tz="379.999954" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000FEFDFFFFFFFFEFBF94FEFF9FC7AA96BE"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1021" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1022" label="V04_VENTANA003" layer="CARPINTERIAS">
+		<mesh name="1020"/>
+		<Transform tx="3460.000244" ty="205.000168" tz="379.999954" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000FEFDFFFFFFFFEFBF94FEFF9FC7AA96BE"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1022" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1023" label="V04_VENTANA004" layer="CARPINTERIAS">
+		<mesh name="1020"/>
+		<Transform tx="3460.000244" ty="1495.0" tz="379.999954" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="FEFDFFFFFFFFEF3F94FEFF9FC7AA96BE00000000000000800000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1023" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1024" label="2PV-C_350_BALCONERA_001" layer="CARPINTERIAS">
+		<mesh name="1024"/>
+		<Transform tx="2970.0" ty="1370.0" tz="339.99823" sx="-1.0" sy="-1.0" sz="-1.0" qx="-1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="86FEFFFFFFFFEFBF1AFFFFDF4E7793BE00000000000000000000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1024" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1025" label="PUERTA_010" layer="CARPINTERIAS">
+		<mesh name="1025"/>
+		<Transform tx="3366.002197" ty="888.000061" tz="339.998199" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000000000000000000000DEFFFFFFFFFFEFBFE7FFFFBFA577773E"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 1025" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1026" label="PUERTA_011" layer="CARPINTERIAS">
+		<mesh name="1025"/>
+		<Transform tx="3274.000244" ty="622.999817" tz="339.998199" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="00000000000000000000000000000000FAFFFFBFA577673EF8FFFFFFFFFFEF3F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 1026" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1027" label="PUERTA_012" layer="CARPINTERIAS">
+		<mesh name="1025"/>
+		<Transform tx="3256.000244" ty="622.999817" tz="339.998199" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="0.0" qz="0.0" qw="0.0" qhex64="F8FFFFFFFFFFEF3FFCFFFFBFA577673E00000000000000800000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 1027" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1028" label="PUERTA_013" layer="CARPINTERIAS">
+		<mesh name="1025"/>
+		<Transform tx="2983.0" ty="622.999817" tz="339.998199" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="0.0" qz="0.0" qw="0.0" qhex64="F8FFFFFFFFFFEF3FFCFFFFBFA577673E00000000000000800000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 1028" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1029" label="PUERTA_014" layer="CARPINTERIAS">
+		<mesh name="1025"/>
+		<Transform tx="3370.001892" ty="626.999756" tz="339.998199" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex64="00000000000000000000000000000000CD3B7F669EA0E63FCD3B7F669EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 1029" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1030" label="PUERTA_015" layer="CARPINTERIAS">
+		<mesh name="1025"/>
+		<Transform tx="3370.001892" ty="1169.003052" tz="339.998199" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.707107" qz="0.0" qw="0.0" qhex64="CD3B7F669EA0E63FCC3B7F669EA0E63F00000000000000800000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 1030" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1031" label="PUERTA_016" layer="CARPINTERIAS">
+		<mesh name="1025"/>
+		<Transform tx="3304.0" ty="612.999817" tz="-320.000061" sx="-1.0" sy="-1.0" sz="-1.0" qx="-0.0" qy="1.0" qz="0.0" qw="0.0" qhex64="E9FFFFBFA57777BEDEFFFFFFFFFFEF3F00000000000000800000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_mesh" />
+		<tag value="Max.handle: 1031" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1032" label="SM_puerta_incendio001" layer="CARPINTERIAS">
+		<mesh name="1032"/>
+		<Transform tx="2840.000316" ty="1285.000066" tz="-320.000092" sx="-1.0" sy="-1.0" sz="-1.0" qx="-0.707107" qy="0.707107" qz="0.0" qw="0.0" qhex64="603B7F269EA0E6BF843B7FA69EA0E63F00000000000000800000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1032" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1033" label="SM_puerta_incendio002" layer="CARPINTERIAS">
+		<mesh name="1032"/>
+		<Transform tx="2833.999691" ty="1239.96834" tz="-320.000076" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="E8FFFFFFFFFFEF3FF2FFFF1F2D4474BE00000000000000800000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1033" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1034" label="SM_puerta_incendio_80_001" layer="CARPINTERIAS">
+		<mesh name="1034"/>
+		<Transform tx="3120.999935" ty="788.000079" tz="-320.000122" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="-0.0" qz="0.0" qw="0.0" qhex64="E8FFFFFFFFFFEF3FF2FFFF1F2D4474BE00000000000000800000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1034" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1037" label="SM_puerta_incendio_80_002" layer="CARPINTERIAS">
+		<mesh name="1034"/>
+		<Transform tx="2923.000077" ty="788.00003" tz="-320.000198" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.0" qw="1.0" qhex64="00000000000000000000000000000000C0FFFFFFFFFF7FBEC0FFFFFFFFFFEF3F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1037" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1039" label="SM_puerta_incendio003" layer="CARPINTERIAS">
+		<mesh name="1032"/>
+		<Transform tx="2903.000065" ty="622.999741" tz="-320.000031" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.0" qy="1.0" qz="0.0" qw="0.0" qhex64="C0FFFFFFFFFF7F3EC0FFFFFFFFFFEF3F00000000000000800000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1039" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1040" label="PUERTA_GARAJE" layer="CARPINTERIAS">
+		<mesh name="1040"/>
+		<Transform tx="2862.373043" ty="1323.80003" tz="-322.95052" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="-0.0" qhex64="00000000000000000000000000000000F8FFFFFFFFFFEFBFFAFFFFBFA57767BE"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1040" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1041" label="SM_puerta_ascensor" layer="CARPINTERIAS">
+		<mesh name="1041"/>
+		<Transform tx="2867.000443" ty="724.399841" tz="-0.000135" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000000AD3B7F469EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1041" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1042" label="SM_puerta_ascensor001" layer="CARPINTERIAS">
+		<mesh name="1042"/>
+		<Transform tx="2867.000443" ty="724.399841" tz="339.998279" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000000AD3B7F469EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1042" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1043" label="SM_puerta_ascensor002" layer="CARPINTERIAS">
+		<mesh name="1043"/>
+		<Transform tx="2867.000443" ty="724.399841" tz="-319.999981" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000000AD3B7F469EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1043" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1045" label="1_PV-B_PUERTA_ABIERTA_001" layer="CARPINTERIAS">
+		<mesh name="1045"/>
+		<Transform tx="2913.397461" ty="1374.825806" tz="39.777046" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.707107" qz="0.0" qw="0.0" qhex64="AD3B7F469EA0E63FBF3B7F869EA0E63F00000000000000800000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.handle: 1045" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1046" label="vidrio_jardin_sur" layer="CARPINTERIAS">
+		<mesh name="1046"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000080AD3B7F469EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1046" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<Texture name="Agua_-_Olas_-opt_2_2_Tex" label="Agua_-_Olas_-opt_2_2_Tex" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="1" file="Harmony_Assets/Agua - Olas -opt.jpg">
+		<Hash value="1426da3f3bfe8406f632b0fc1b9d526c"/>
+	</Texture>
+	<Texture name="Tablillas_-_01_-opt_2_2_Tex" label="Tablillas_-_01_-opt_2_2_Tex" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="1" file="Harmony_Assets/Tablillas - 01 -opt.jpg">
+		<Hash value="075c611c1315a1753a191e420a20c203"/>
+	</Texture>
+	<Texture name="Metal_-_Zinc_-opt_2_2_Tex" label="Metal_-_Zinc_-opt_2_2_Tex" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="1" file="Harmony_Assets/Metal - Zinc -opt.jpg">
+		<Hash value="1d568affd93c789a53555d7e603adb5b"/>
+	</Texture>
+	<Texture name="Hierba_-_Marron_cb_-opt_2_2_Tex" label="Hierba_-_Marron_cb_-opt_2_2_Tex" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="1" file="Harmony_Assets/Hierba - Marrón cb -opt.jpg">
+		<Hash value="e181735990184680b44a439eee4f3d85"/>
+	</Texture>
+	<Texture name="" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="1" file="Harmony_Assets">
+		<Hash value=""/>
+	</Texture>
+	<UEPbrMaterial name="Agua_-_Ondulada">
+		<Expressions>
+			<Texture Name="" PathName="Agua_-_Olas_-opt_2_2_Tex">
+			</Texture>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="SUELO">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.475439,G=0.404825,B=0.243421,A=1.000000)"/>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Rc03_lamas">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.956863,G=0.956863,B=0.956863,A=1.000000)"/>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Tablas_-_01">
+		<Expressions>
+			<Texture Name="" PathName="Tablillas_-_01_-opt_2_2_Tex">
+			</Texture>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Pintura-_Gris_Claro">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.658824,G=0.658824,B=0.658824,A=1.000000)"/>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Metal_-_Zinc">
+		<Expressions>
+			<Texture Name="" PathName="Metal_-_Zinc_-opt_2_2_Tex">
+			</Texture>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Vidrio_-_Claro_Rapido">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.941176,G=0.968627,B=0.952941,A=1.000000)"/>
+			<Color Name="" constant="(R=0.328509,G=0.328509,B=0.328509,A=0.476100)"/>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+			<Desaturation Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</Desaturation>
+			<OneMinus Name="">
+				<Input Name="0" expression="5" OutputIndex="0"/>
+			</OneMinus>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="3" OutputIndex="0"/>
+		<Input Name="Roughness" expression="4" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="2" OutputIndex="0"/>
+		<Input Name="Opacity" expression="6" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Hierba_-_Marron">
+		<Expressions>
+			<Texture Name="" PathName="Hierba_-_Marron_cb_-opt_2_2_Tex">
+			</Texture>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Metal_-_Oxidado_24">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="M_puerta_interior">
+		<Expressions>
+			<Texture Name="" PathName="">
+			</Texture>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+			<Texture Name="" PathName="">
+			</Texture>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.BreakOutFloat3Components">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+			</FunctionCall>
+			<Multiply Name="">
+				<Input Name="0" expression="5" OutputIndex="0"/>
+				<Input Name="1" expression="7" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="Normal_Intensity" constant="0.3"/>
+			<Multiply Name="">
+				<Input Name="0" expression="5" OutputIndex="1"/>
+				<Input Name="1" expression="7" OutputIndex="0"/>
+			</Multiply>
+			<AppendVector Name="">
+				<Input Name="0" expression="6" OutputIndex="0"/>
+				<Input Name="1" expression="8" OutputIndex="0"/>
+			</AppendVector>
+			<DotProduct Name="">
+				<Input Name="0" expression="9" OutputIndex="0"/>
+				<Input Name="1" expression="9" OutputIndex="0"/>
+			</DotProduct>
+			<OneMinus Name="">
+				<Input Name="0" expression="10" OutputIndex="0"/>
+			</OneMinus>
+			<Saturate Name="">
+				<Input Name="0" expression="11" OutputIndex="0"/>
+			</Saturate>
+			<SquareRoot Name="">
+				<Input Name="0" expression="12" OutputIndex="0"/>
+			</SquareRoot>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.MakeFloat3">
+				<Input Name="0" expression="6" OutputIndex="0"/>
+				<Input Name="1" expression="8" OutputIndex="0"/>
+				<Input Name="2" expression="13" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<Input Name="Normal" expression="14" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="MI_metal_cromado">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="MI_acero_inoxidable">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="M_plastico_Liso_color">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="PVC">
+		<Expressions>
+			<Color Name="Diffuse" constant="(R=0.921569,G=0.921569,B=0.921569,A=1.000000)"/>
+			<Color Name="Reflection" constant="(R=0.533333,G=0.533333,B=0.533333,A=1.000000)"/>
+			<Desaturation Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</Desaturation>
+			<Scalar Name="Reflection_Glossiness" constant="0.6"/>
+			<LinearInterpolate Name="Bump_Map">
+				<Input Name="0" expression="7" OutputIndex="0"/>
+				<Input Name="1" expression="9" OutputIndex="0"/>
+				<Input Name="2" expression="5" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Mix_Amount" constant="0.6"/>
+			<TextureObjectParameter Name="Bump_Map">
+				<KeyValueProperty name="Texture" type="Texture" val=""/>
+			</TextureObjectParameter>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.NormalFromHeightmap">
+				<Input Name="0" expression="6" OutputIndex="0"/>
+				<Input Name="2" expression="8" OutputIndex="0"/>
+			</FunctionCall>
+			<Scalar Name="" constant="0.001"/>
+			<Color Name="Mix_2" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="3" OutputIndex="0"/>
+			</Multiply>
+			<OneMinus Name="">
+				<Input Name="0" expression="10" OutputIndex="0"/>
+			</OneMinus>
+			<Power Name="">
+				<KeyValueProperty name="ConstExponent" type="Float" val="1.500000"/>
+				<Input Name="0" expression="11" OutputIndex="0"/>
+			</Power>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="21" OutputIndex="0"/>
+				<Input Name="2" expression="2" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Fresnel_IOR" constant="1.6"/>
+			<Scalar Name="" constant="-1.0"/>
+			<Add Name="">
+				<Input Name="0" expression="14" OutputIndex="0"/>
+				<Input Name="1" expression="15" OutputIndex="0"/>
+			</Add>
+			<Multiply Name="">
+				<Input Name="0" expression="16" OutputIndex="0"/>
+				<Input Name="1" expression="18" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="" constant="0.02"/>
+			<Power Name="">
+				<Input Name="0" expression="17" OutputIndex="0"/>
+				<Input Name="1" expression="20" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.5"/>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+				<Input Name="2" expression="19" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Power Name="">
+				<Input Name="0" expression="17" OutputIndex="0"/>
+				<Input Name="1" expression="23" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.2"/>
+			<Multiply Name="">
+				<Input Name="0" expression="2" OutputIndex="0"/>
+				<Input Name="1" expression="22" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<Input Name="BaseColor" expression="13" OutputIndex="0"/>
+		<Input Name="Metallic" expression="24" OutputIndex="0"/>
+		<Input Name="Roughness" expression="12" OutputIndex="0"/>
+		<Input Name="Specular" expression="24" OutputIndex="0"/>
+		<Input Name="Normal" expression="4" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="rubber">
+		<Expressions>
+			<VertexNormalWS Name="">
+			</VertexNormalWS>
+			<Fresnel Name="">
+				<Input Name="2" expression="0" OutputIndex="0"/>
+			</Fresnel>
+			<Color Name="Falloff_Front" constant="(R=0.007843,G=0.007843,B=0.007843,A=1.000000)"/>
+			<Color Name="Falloff_Side" constant="(R=0.035294,G=0.035294,B=0.035294,A=1.000000)"/>
+			<LinearInterpolate Name="Diffuse">
+				<Input Name="0" expression="2" OutputIndex="0"/>
+				<Input Name="1" expression="3" OutputIndex="0"/>
+				<Input Name="2" expression="1" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Color Name="Noise_1" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Color Name="Noise_2" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<LinearInterpolate Name="Reflection">
+				<Input Name="0" expression="5" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+				<Input Name="2" expression="11" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Noise_Scale" constant="0.333333"/>
+			<Multiply Name="">
+				<Input Name="0" expression="10" OutputIndex="0"/>
+				<Input Name="1" expression="8" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition">
+			</FunctionCall>
+			<Noise Name="">
+				<Input Name="0" expression="9" OutputIndex="0"/>
+			</Noise>
+			<Desaturation Name="">
+				<Input Name="0" expression="7" OutputIndex="0"/>
+			</Desaturation>
+			<Color Name="Noise_1" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Color Name="Noise_2" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="13" OutputIndex="0"/>
+				<Input Name="1" expression="14" OutputIndex="0"/>
+				<Input Name="2" expression="19" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Noise_Scale" constant="0.333333"/>
+			<Multiply Name="">
+				<Input Name="0" expression="18" OutputIndex="0"/>
+				<Input Name="1" expression="16" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition">
+			</FunctionCall>
+			<Noise Name="">
+				<Input Name="0" expression="17" OutputIndex="0"/>
+			</Noise>
+			<Scalar Name="Reflection_Glossiness" constant="1.0"/>
+			<LinearInterpolate Name="Reflection_Glossiness">
+				<Input Name="0" expression="20" OutputIndex="0"/>
+				<Input Name="1" expression="15" OutputIndex="0"/>
+				<Input Name="2" expression="22" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Reflection_GlossinessMap_Weight" constant="0.75"/>
+			<Color Name="Noise_1" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Color Name="Noise_2" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="23" OutputIndex="0"/>
+				<Input Name="1" expression="24" OutputIndex="0"/>
+				<Input Name="2" expression="29" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Noise_Scale" constant="0.333333"/>
+			<Multiply Name="">
+				<Input Name="0" expression="28" OutputIndex="0"/>
+				<Input Name="1" expression="26" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition">
+			</FunctionCall>
+			<Noise Name="">
+				<Input Name="0" expression="27" OutputIndex="0"/>
+			</Noise>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.BreakOutFloat3Components">
+				<Input Name="0" expression="25" OutputIndex="0"/>
+			</FunctionCall>
+			<Multiply Name="">
+				<Input Name="0" expression="30" OutputIndex="0"/>
+				<Input Name="1" expression="32" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="Normal_Intensity" constant="0.03"/>
+			<Multiply Name="">
+				<Input Name="0" expression="30" OutputIndex="1"/>
+				<Input Name="1" expression="32" OutputIndex="0"/>
+			</Multiply>
+			<AppendVector Name="">
+				<Input Name="0" expression="31" OutputIndex="0"/>
+				<Input Name="1" expression="33" OutputIndex="0"/>
+			</AppendVector>
+			<DotProduct Name="">
+				<Input Name="0" expression="34" OutputIndex="0"/>
+				<Input Name="1" expression="34" OutputIndex="0"/>
+			</DotProduct>
+			<OneMinus Name="">
+				<Input Name="0" expression="35" OutputIndex="0"/>
+			</OneMinus>
+			<Saturate Name="">
+				<Input Name="0" expression="36" OutputIndex="0"/>
+			</Saturate>
+			<SquareRoot Name="">
+				<Input Name="0" expression="37" OutputIndex="0"/>
+			</SquareRoot>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.MakeFloat3">
+				<Input Name="0" expression="31" OutputIndex="0"/>
+				<Input Name="1" expression="33" OutputIndex="0"/>
+				<Input Name="2" expression="38" OutputIndex="0"/>
+			</FunctionCall>
+			<Multiply Name="">
+				<Input Name="0" expression="21" OutputIndex="0"/>
+				<Input Name="1" expression="21" OutputIndex="0"/>
+			</Multiply>
+			<OneMinus Name="">
+				<Input Name="0" expression="40" OutputIndex="0"/>
+			</OneMinus>
+			<Power Name="">
+				<KeyValueProperty name="ConstExponent" type="Float" val="1.500000"/>
+				<Input Name="0" expression="41" OutputIndex="0"/>
+			</Power>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="51" OutputIndex="0"/>
+				<Input Name="2" expression="12" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Fresnel_IOR" constant="1.4"/>
+			<Scalar Name="" constant="-1.0"/>
+			<Add Name="">
+				<Input Name="0" expression="44" OutputIndex="0"/>
+				<Input Name="1" expression="45" OutputIndex="0"/>
+			</Add>
+			<Multiply Name="">
+				<Input Name="0" expression="46" OutputIndex="0"/>
+				<Input Name="1" expression="48" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="" constant="0.02"/>
+			<Power Name="">
+				<Input Name="0" expression="47" OutputIndex="0"/>
+				<Input Name="1" expression="50" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.5"/>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="7" OutputIndex="0"/>
+				<Input Name="2" expression="49" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Power Name="">
+				<Input Name="0" expression="47" OutputIndex="0"/>
+				<Input Name="1" expression="53" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.2"/>
+			<Multiply Name="">
+				<Input Name="0" expression="12" OutputIndex="0"/>
+				<Input Name="1" expression="52" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<Input Name="BaseColor" expression="43" OutputIndex="0"/>
+		<Input Name="Metallic" expression="54" OutputIndex="0"/>
+		<Input Name="Roughness" expression="42" OutputIndex="0"/>
+		<Input Name="Specular" expression="54" OutputIndex="0"/>
+		<Input Name="Normal" expression="39" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="zinc">
+		<Expressions>
+			<Texture Name="" PathName="">
+			</Texture>
+			<Color Name="Diffuse_Color" constant="(R=0.500000,G=0.500000,B=0.500000,A=1.000000)"/>
+			<LinearInterpolate Name="Diffuse">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+				<Input Name="1" expression="0" OutputIndex="0"/>
+				<Input Name="2" expression="3" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Diffuse_ColorMap_Weight" constant="0.5"/>
+			<Texture Name="" PathName="">
+			</Texture>
+			<Color Name="Reflection_Color" constant="(R=0.901961,G=0.901961,B=0.901961,A=1.000000)"/>
+			<LinearInterpolate Name="Reflection">
+				<Input Name="0" expression="5" OutputIndex="0"/>
+				<Input Name="1" expression="4" OutputIndex="0"/>
+				<Input Name="2" expression="7" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Reflection_ColorMap_Weight" constant="0.5"/>
+			<Desaturation Name="">
+				<Input Name="0" expression="6" OutputIndex="0"/>
+			</Desaturation>
+			<Texture Name="" PathName="">
+			</Texture>
+			<Desaturation Name="">
+				<Input Name="0" expression="9" OutputIndex="0"/>
+			</Desaturation>
+			<Scalar Name="Reflection_Glossiness" constant="1.0"/>
+			<LinearInterpolate Name="Reflection_Glossiness">
+				<Input Name="0" expression="11" OutputIndex="0"/>
+				<Input Name="1" expression="10" OutputIndex="0"/>
+				<Input Name="2" expression="13" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Reflection_GlossinessMap_Weight" constant="0.75"/>
+			<LinearInterpolate Name="Bump_Map">
+				<Input Name="0" expression="17" OutputIndex="0"/>
+				<Input Name="1" expression="19" OutputIndex="0"/>
+				<Input Name="2" expression="15" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Mix_Amount" constant="0.99"/>
+			<TextureObjectParameter Name="Bump_Map">
+				<KeyValueProperty name="Texture" type="Texture" val=""/>
+			</TextureObjectParameter>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.NormalFromHeightmap">
+				<Input Name="0" expression="16" OutputIndex="0"/>
+				<Input Name="2" expression="18" OutputIndex="0"/>
+			</FunctionCall>
+			<Scalar Name="" constant="0.001"/>
+			<Color Name="Mix_2" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Multiply Name="">
+				<Input Name="0" expression="12" OutputIndex="0"/>
+				<Input Name="1" expression="12" OutputIndex="0"/>
+			</Multiply>
+			<OneMinus Name="">
+				<Input Name="0" expression="20" OutputIndex="0"/>
+			</OneMinus>
+			<Power Name="">
+				<KeyValueProperty name="ConstExponent" type="Float" val="1.500000"/>
+				<Input Name="0" expression="21" OutputIndex="0"/>
+			</Power>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="2" OutputIndex="0"/>
+				<Input Name="1" expression="31" OutputIndex="0"/>
+				<Input Name="2" expression="8" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Fresnel_IOR" constant="2.6"/>
+			<Scalar Name="" constant="-1.0"/>
+			<Add Name="">
+				<Input Name="0" expression="24" OutputIndex="0"/>
+				<Input Name="1" expression="25" OutputIndex="0"/>
+			</Add>
+			<Multiply Name="">
+				<Input Name="0" expression="26" OutputIndex="0"/>
+				<Input Name="1" expression="28" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="" constant="0.02"/>
+			<Power Name="">
+				<Input Name="0" expression="27" OutputIndex="0"/>
+				<Input Name="1" expression="30" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.5"/>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="2" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+				<Input Name="2" expression="29" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Power Name="">
+				<Input Name="0" expression="27" OutputIndex="0"/>
+				<Input Name="1" expression="33" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.2"/>
+			<Multiply Name="">
+				<Input Name="0" expression="8" OutputIndex="0"/>
+				<Input Name="1" expression="32" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<Input Name="BaseColor" expression="23" OutputIndex="0"/>
+		<Input Name="Metallic" expression="34" OutputIndex="0"/>
+		<Input Name="Roughness" expression="22" OutputIndex="0"/>
+		<Input Name="Specular" expression="34" OutputIndex="0"/>
+		<Input Name="Normal" expression="14" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Steel">
+		<Expressions>
+			<Color Name="Diffuse" constant="(R=0.078431,G=0.078431,B=0.078431,A=1.000000)"/>
+			<Color Name="Reflection" constant="(R=0.596078,G=0.596078,B=0.596078,A=1.000000)"/>
+			<Desaturation Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</Desaturation>
+			<Scalar Name="Reflection_Glossiness" constant="0.97"/>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="3" OutputIndex="0"/>
+			</Multiply>
+			<OneMinus Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+			</OneMinus>
+			<Power Name="">
+				<KeyValueProperty name="ConstExponent" type="Float" val="1.500000"/>
+				<Input Name="0" expression="5" OutputIndex="0"/>
+			</Power>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="15" OutputIndex="0"/>
+				<Input Name="2" expression="2" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Fresnel_IOR" constant="25.0"/>
+			<Scalar Name="" constant="-1.0"/>
+			<Add Name="">
+				<Input Name="0" expression="8" OutputIndex="0"/>
+				<Input Name="1" expression="9" OutputIndex="0"/>
+			</Add>
+			<Multiply Name="">
+				<Input Name="0" expression="10" OutputIndex="0"/>
+				<Input Name="1" expression="12" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="" constant="0.02"/>
+			<Power Name="">
+				<Input Name="0" expression="11" OutputIndex="0"/>
+				<Input Name="1" expression="14" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.5"/>
+			<LinearInterpolate Name="">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+				<Input Name="2" expression="13" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Power Name="">
+				<Input Name="0" expression="11" OutputIndex="0"/>
+				<Input Name="1" expression="17" OutputIndex="0"/>
+			</Power>
+			<Scalar Name="" constant="0.2"/>
+			<Multiply Name="">
+				<Input Name="0" expression="2" OutputIndex="0"/>
+				<Input Name="1" expression="16" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<Input Name="BaseColor" expression="7" OutputIndex="0"/>
+		<Input Name="Metallic" expression="18" OutputIndex="0"/>
+		<Input Name="Roughness" expression="6" OutputIndex="0"/>
+		<Input Name="Specular" expression="18" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Metal_-_Cromo_01">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.749020,G=0.749020,B=0.749020,A=1.000000)"/>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<MetaData name="5" reference="Actor.5">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="34" reference="Actor.34">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="60" reference="Actor.60">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="105" reference="Actor.105">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="708" reference="Actor.708">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="710" reference="Actor.710">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="979" reference="Actor.979">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="991" reference="Actor.991">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="1008" reference="Actor.1008">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="1009" reference="Actor.1009">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="1010" reference="Actor.1010">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="1011" reference="Actor.1011">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="1014" reference="Actor.1014">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="1015" reference="Actor.1015">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="1018" reference="Actor.1018">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1019" reference="Actor.1019">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1020" reference="Actor.1020">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1021" reference="Actor.1021">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1022" reference="Actor.1022">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1023" reference="Actor.1023">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1024" reference="Actor.1024">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1025" reference="Actor.1025">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="UVmap_2"/>
+		<KeyValueProperty name="MapChannel:4" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1026" reference="Actor.1026">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="UVmap_2"/>
+		<KeyValueProperty name="MapChannel:4" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1027" reference="Actor.1027">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="UVmap_2"/>
+		<KeyValueProperty name="MapChannel:4" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1028" reference="Actor.1028">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="UVmap_2"/>
+		<KeyValueProperty name="MapChannel:4" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1029" reference="Actor.1029">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="UVmap_2"/>
+		<KeyValueProperty name="MapChannel:4" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1030" reference="Actor.1030">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="UVmap_2"/>
+		<KeyValueProperty name="MapChannel:4" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1031" reference="Actor.1031">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="UVmap_2"/>
+		<KeyValueProperty name="MapChannel:4" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1032" reference="Actor.1032">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1033" reference="Actor.1033">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1034" reference="Actor.1034">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1037" reference="Actor.1037">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1039" reference="Actor.1039">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1041" reference="Actor.1041">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="1042" reference="Actor.1042">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="1043" reference="Actor.1043">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="1045" reference="Actor.1045">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1046" reference="Actor.1046">
+		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
