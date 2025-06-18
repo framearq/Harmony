@@ -59,7 +59,7 @@
 		<Size a="35650.046875" x="229.999924" y="155.000259" z="0.0"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="02ac7ed78cef0a555cdea5c6687a71cf"/>
+		<Hash value="8ce516587b57a7ede19adab9f7650b81"/>
 	</StaticMesh>
 	<StaticMesh name="87" label="PAREDES_SALA_MAQUINAS">
 		<file path="Harmony_Assets/87.udsmesh"/>
@@ -151,10 +151,10 @@
 	</StaticMesh>
 	<StaticMesh name="699" label="PAREDES_PB">
 		<file path="Harmony_Assets/699.udsmesh"/>
-		<Size a="790648.9375" x="780.000305" y="1040.000244" z="599.99823"/>
+		<Size a="790724.9375" x="780.000305" y="1040.000244" z="599.99823"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="968b615fb19d5d2b2659285bfd1dcf21"/>
+		<Hash value="beff91ac5810aa86c61c8f626b0ae9ef"/>
 		<Material id="1" name="MONOCAPA_BLANCO"/>
 		<Material id="2" name="Material__37"/>
 	</StaticMesh>
@@ -163,7 +163,9 @@
 		<Size a="729814.875" x="750.00061" y="1040.000122" z="20.150024"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="b355e641e33c2e07fb2fe151c79dc2db"/>
+		<Hash value="dc4a7f5ba44d8431a0958cad28dd2fb2"/>
+		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Material__37"/>
 	</StaticMesh>
 	<StaticMesh name="705" label="PAREDES_ASEO_PB">
 		<file path="Harmony_Assets/705.udsmesh"/>
@@ -213,10 +215,10 @@
 	</StaticMesh>
 	<StaticMesh name="951" label="SUELO_PB">
 		<file path="Harmony_Assets/951.udsmesh"/>
-		<Size a="721522.4375" x="779.000305" y="1040.000122" z="0.0"/>
+		<Size a="721785.8125" x="779.000305" y="1040.000122" z="0.0"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="abeb57fe9338d105b487f6a1214dabbd"/>
+		<Hash value="cd96ba25dd9b074b05ddc2ab344e2f0d"/>
 	</StaticMesh>
 	<StaticMesh name="952" label="PAREDES_HABITACION_02">
 		<file path="Harmony_Assets/952.udsmesh"/>
@@ -332,11 +334,12 @@
 	</StaticMesh>
 	<StaticMesh name="981" label="FACHADA_NORTE">
 		<file path="Harmony_Assets/981.udsmesh"/>
-		<Size a="895449.75" x="812.000366" y="331.999939" z="850.000183"/>
+		<Size a="895458.125" x="812.000366" y="331.999939" z="850.000183"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="b577bf176ef0ab13fc4d5d2e57693dac"/>
+		<Hash value="c5c7cc43a67ae81dd9200159b515c0d8"/>
 		<Material id="1" name="MONOCAPA_BLANCO"/>
+		<Material id="2" name="Hierba_-_Marron"/>
 		<Material id="5" name="APLACADO_PIEDRA"/>
 		<Material id="6" name="MONOCAPA_MARRON"/>
 		<Material id="7" name="MURO_HORMIGON"/>
@@ -346,7 +349,7 @@
 		<Size a="1209362.75" x="1315.396118" y="730.000061" z="730.000244"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="2a16e5a1ae8439cec9abf9a82330a2b1"/>
+		<Hash value="ffd7f0c6be867952fbb621bb3ed28b9d"/>
 		<Material id="1" name="MONOCAPA_BLANCO"/>
 		<Material id="5" name="APLACADO_PIEDRA"/>
 		<Material id="6" name="MONOCAPA_MARRON"/>
@@ -489,10 +492,10 @@
 	</StaticMesh>
 	<StaticMesh name="1040" label="PUERTA_GARAJE">
 		<file path="Harmony_Assets/1040.udsmesh"/>
-		<Size a="393408.40625" x="590.490601" y="345.704742" z="236.009491"/>
+		<Size a="394364.3125" x="590.49054" y="345.704742" z="280.5224"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="f244cf62b0b6908ca4289c8ca21c6519"/>
+		<Hash value="8e9665b34cd7dcc4532a367b01e04e14"/>
 		<Material id="1" name="PVC"/>
 		<Material id="2" name="rubber"/>
 		<Material id="3" name="zinc"/>
@@ -511,7 +514,7 @@
 		<Size a="48985.050781" x="12.0" y="216.001709" z="86.200317"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="1d6743da1553dc4293fb7ff9b73658d7"/>
+		<Hash value="628936db9dbe6304863add5ed7863237"/>
 		<Material id="1" name="Metal_-_Cromo_01"/>
 	</StaticMesh>
 	<StaticMesh name="1043" label="SM_puerta_ascensor002">
@@ -519,7 +522,7 @@
 		<Size a="61737.347656" x="12.0" y="234.000046" z="104.800598"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="6ff03e7f5d6a39dac50927cb1eca0d0e"/>
+		<Hash value="c8ade18fe0f40f29e782470284952348"/>
 		<Material id="1" name="Metal_-_Cromo_01"/>
 	</StaticMesh>
 	<StaticMesh name="1045" label="1_PV-B_PUERTA_ABIERTA_001">
@@ -527,7 +530,7 @@
 		<Size a="69350.664062" x="87.233582" y="96.59671" z="263.393005"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="dac65e190a11ebd97d67d4a30a4ff12d"/>
+		<Hash value="331c818ed5491cc36aaa9c6a54e8cb23"/>
 		<Material id="1" name="Material__38_4"/>
 		<Material id="2" name="Material__37_5"/>
 		<Material id="3" name="Material__25_4"/>
@@ -540,6 +543,42 @@
 		<Hash value="42f780cff0b27c280b6fd2b14b1d3032"/>
 		<Material id="1" name="MONOCAPA_BLANCO"/>
 		<Material id="2" name="Material__37"/>
+	</StaticMesh>
+	<StaticMesh name="1048" label="puerta_balcon016">
+		<file path="Harmony_Assets/1048.udsmesh"/>
+		<Size a="56886.675781" x="66.5979" y="8.003843" z="263.282776"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="858195391d6070fe884621d272066600"/>
+		<Material id="1" name="Material__38_5"/>
+		<Material id="2" name="Material__37_6"/>
+		<Material id="3" name="Material__25_5"/>
+	</StaticMesh>
+	<StaticMesh name="1049" label="puerta_balcon017">
+		<file path="Harmony_Assets/1049.udsmesh"/>
+		<Size a="26952.4375" x="66.5979" y="13.941587" z="116.399719"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="54b2c09ccca16cbeea52b56484a191fa"/>
+		<Material id="1" name="Material__38_6"/>
+		<Material id="2" name="Material__37_7"/>
+		<Material id="3" name="Material__25_6"/>
+	</StaticMesh>
+	<StaticMesh name="1050" label="PUERTA_CORREDERA_BANO">
+		<file path="Harmony_Assets/1050.udsmesh"/>
+		<Size a="42179.246094" x="133.380219" y="12.000036" z="209.999985"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0622360f5b071a76fb292ea79dd8f7c7"/>
+		<Material id="1" name="Material__323"/>
+	</StaticMesh>
+	<StaticMesh name="1051" label="SM_puerta_parcela">
+		<file path="Harmony_Assets/1051.udsmesh"/>
+		<Size a="56523.613281" x="99.999985" y="13.063046" z="230.000015"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3c610bf530000b3092fb400536c9d92c"/>
+		<Material id="1" name="Material__1248"/>
 	</StaticMesh>
 	<ActorMesh name="5" label="AGUA_PISCINA" layer="EXTERIOR">
 		<mesh name="5"/>
@@ -955,7 +994,7 @@
 		<mesh name="981"/>
 		<Transform tx="-46.390316" ty="-39.564587" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000000000000000080000000000000F03F"/>
 		<tag value="Max.superclassof: GeometryClass" />
-		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.classof: Editable_Poly" />
 		<tag value="Max.handle: 981" />
 		<tag value="Max.isGroupHead: false" />
 		<tag value="Max.isGroupMember: false" />
@@ -1335,7 +1374,7 @@
 		<mesh name="1042"/>
 		<Transform tx="-322.184814" ty="-68.884094" tz="339.998279" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000000AD3B7F469EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
-		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1042" />
 		<tag value="Max.isGroupHead: false" />
 		<tag value="Max.isGroupMember: false" />
@@ -1345,7 +1384,7 @@
 		<mesh name="1043"/>
 		<Transform tx="-322.184814" ty="-68.884094" tz="-319.999981" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="BF3B7F869EA0E6BF00000000000000000000000000000000AD3B7F469EA0E63F"/>
 		<tag value="Max.superclassof: GeometryClass" />
-		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1043" />
 		<tag value="Max.isGroupHead: false" />
 		<tag value="Max.isGroupMember: false" />
@@ -1355,7 +1394,7 @@
 		<mesh name="1045"/>
 		<Transform tx="-275.78772" ty="581.541931" tz="39.777046" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.707107" qy="0.707107" qz="0.0" qw="0.0" qhex64="AD3B7F469EA0E63FBF3B7F869EA0E63F00000000000000800000000000000000"/>
 		<tag value="Max.superclassof: GeometryClass" />
-		<tag value="Max.classof: Editable_Poly" />
+		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1045" />
 		<tag value="Max.isGroupHead: false" />
 		<tag value="Max.isGroupMember: false" />
@@ -1367,6 +1406,46 @@
 		<tag value="Max.superclassof: GeometryClass" />
 		<tag value="Max.classof: PolyMeshObject" />
 		<tag value="Max.handle: 1046" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1048" label="puerta_balcon016" layer="CARPINTERIAS">
+		<mesh name="1048"/>
+		<Transform tx="-379.153992" ty="581.541992" tz="376.495026" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.0" qw="1.0" qhex64="00000000000000800000000000000000E7FFFFBFA57777BEDEFFFFFFFFFFEF3F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1048" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1049" label="puerta_balcon017" layer="CARPINTERIAS">
+		<mesh name="1049"/>
+		<Transform tx="-404.231354" ty="-468.109985" tz="186.495071" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.0" qw="1.0" qhex64="00000000000000800000000000000000E7FFFFBFA57777BEDEFFFFFFFFFFEF3F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1049" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1050" label="PUERTA_CORREDERA_BANO" layer="CARPINTERIAS">
+		<mesh name="1050"/>
+		<Transform tx="-327.483215" ty="-305.267487" tz="107.499985" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex64="00000000000000000000000000000000CD3B7F669EA0E63FCD3B7F669EA0E63F"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1050" />
+		<tag value="Max.isGroupHead: false" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+	</ActorMesh>
+	<ActorMesh name="1051" label="SM_puerta_parcela" layer="EXTERIOR">
+		<mesh name="1051"/>
+		<Transform tx="-193.36412" ty="-793.283935" tz="-120.000015" sx="-1.0" sy="-1.0" sz="-1.0" qx="0.0" qy="1.0" qz="0.0" qw="0.0" qhex64="0000000000000000000000000000F03F00000000000000800000000000000000"/>
+		<tag value="Max.superclassof: GeometryClass" />
+		<tag value="Max.classof: PolyMeshObject" />
+		<tag value="Max.handle: 1051" />
 		<tag value="Max.isGroupHead: false" />
 		<tag value="Max.isGroupMember: false" />
 		<tag value="Max.parent.handle: 0" />
@@ -2023,6 +2102,57 @@
 		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
 		<OpacityMaskClipValue value="0.3333"/>
 	</UEPbrMaterial>
+	<UEPbrMaterial name="Material__1248">
+		<Expressions>
+			<Texture Name="" PathName="">
+			</Texture>
+			<Color Name="Emissive_Color" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Metallic" constant="0.0"/>
+			<Scalar Name="" constant="0.75"/>
+			<Texture Name="" PathName="">
+			</Texture>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.BreakOutFloat3Components">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+			</FunctionCall>
+			<Multiply Name="">
+				<Input Name="0" expression="5" OutputIndex="0"/>
+				<Input Name="1" expression="7" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="Normal_Intensity" constant="0.3"/>
+			<Multiply Name="">
+				<Input Name="0" expression="5" OutputIndex="1"/>
+				<Input Name="1" expression="7" OutputIndex="0"/>
+			</Multiply>
+			<AppendVector Name="">
+				<Input Name="0" expression="6" OutputIndex="0"/>
+				<Input Name="1" expression="8" OutputIndex="0"/>
+			</AppendVector>
+			<DotProduct Name="">
+				<Input Name="0" expression="9" OutputIndex="0"/>
+				<Input Name="1" expression="9" OutputIndex="0"/>
+			</DotProduct>
+			<OneMinus Name="">
+				<Input Name="0" expression="10" OutputIndex="0"/>
+			</OneMinus>
+			<Saturate Name="">
+				<Input Name="0" expression="11" OutputIndex="0"/>
+			</Saturate>
+			<SquareRoot Name="">
+				<Input Name="0" expression="12" OutputIndex="0"/>
+			</SquareRoot>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.MakeFloat3">
+				<Input Name="0" expression="6" OutputIndex="0"/>
+				<Input Name="1" expression="8" OutputIndex="0"/>
+				<Input Name="2" expression="13" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<Input Name="Metallic" expression="2" OutputIndex="0"/>
+		<Input Name="Roughness" expression="3" OutputIndex="0"/>
+		<Input Name="EmissiveColor" expression="1" OutputIndex="0"/>
+		<Input Name="Normal" expression="14" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
 	<MetaData name="5" reference="Actor.5">
 		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
 	</MetaData>
@@ -2183,6 +2313,16 @@
 	</MetaData>
 	<MetaData name="1046" reference="Actor.1046">
 		<KeyValueProperty name="MapChannel:1" type="String" val="DiffuseUV"/>
+	</MetaData>
+	<MetaData name="1048" reference="Actor.1048">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
+	</MetaData>
+	<MetaData name="1049" reference="Actor.1049">
+		<KeyValueProperty name="MapChannel:1" type="String" val="UVmap_0"/>
+		<KeyValueProperty name="MapChannel:2" type="String" val="UVmap_1"/>
+		<KeyValueProperty name="MapChannel:3" type="String" val="LightMapUV"/>
 	</MetaData>
 	<Export Duration="0"/>
 </DatasmithUnrealScene>
